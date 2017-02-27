@@ -1,0 +1,4768 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.24)  26 FEB 2017 22:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**exemplo.tex
+(./exemplo.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./uftex.cls
+Document Class: uftex 2016/03/09\ v1.0\ Classe personalizada para o curso de Ci
+Ãªncia da ComputaÃ§Ã£o da UFT - CUP
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count92
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks17
+\c@AM@survey=\count93
+\AM@templatesizebox=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wallpaper/wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+\wpXoffset=\skip46
+\wpYoffset=\skip47
+\tileXoffset=\skip48
+\tileYoffset=\skip49
+\tilewidth=\skip50
+\tileheight=\skip51
+\tileX=\skip52
+\tileY=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks18
+\extratabsurround=\skip54
+\backup@length=\skip55
+)
+\everycr=\toks19
+\minrowclearance=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count94
+\rotFPtop=\skip57
+\rotFPbot=\skip58
+\rot@float@box=\box28
+\rot@mess@toks=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen113
+\lightrulewidth=\dimen114
+\cmidrulewidth=\dimen115
+\belowrulesep=\dimen116
+\belowbottomsep=\dimen117
+\aboverulesep=\dimen118
+\abovetopsep=\dimen119
+\cmidrulesep=\dimen120
+\cmidrulekern=\dimen121
+\defaultaddspace=\dimen122
+\@cmidla=\count95
+\@cmidlb=\count96
+\@aboverulesep=\dimen123
+\@belowrulesep=\dimen124
+\@thisruleclass=\count97
+\@lastruleclass=\count98
+\@thisrulewidth=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ae/ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip59
+\subfigcapskip=\skip60
+\subfigcaptopadj=\dimen126
+\subfigbottomskip=\skip61
+\subfigcapmargin=\dimen127
+\subfiglabelskip=\skip62
+\c@subfigure=\count99
+\c@lofdepth=\count100
+\c@subtable=\count101
+\c@lotdepth=\count102
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip63
+\subfig@bottom=\skip64
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen128
+\WF@size=\dimen129
+\c@WF@wrappedlines=\count103
+\WF@box=\box29
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip65
+\thm@postskip=\skip66
+\thm@headsep=\skip67
+\dth@everypar=\toks28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen130
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box30
+\lst@token=\toks30
+\lst@length=\count105
+\lst@currlwidth=\dimen131
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen134
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
+\ttl@box=\box32
+\beforetitleunit=\skip68
+\aftertitleunit=\skip69
+\ttl@plus=\dimen135
+\ttl@minus=\dimen136
+\ttl@toksa=\toks31
+\titlewidth=\dimen137
+\titlewidthlast=\dimen138
+\titlewidthfirst=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen140
+\captionmargin@=\dimen141
+\captionwidth=\dimen142
+\caption@tempdima=\dimen143
+\caption@indent=\dimen144
+\caption@parindent=\dimen145
+\caption@hangindent=\dimen146
+)
+\c@ContinuedFloat=\count112
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count113
+\Gm@cntv=\count114
+\c@Gm@tempcnt=\count115
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen155
+\Hy@linkcounter=\count116
+\Hy@pagecounter=\count117
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count118
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4319.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4319.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing ON on input line 4461.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen156
+\Fld@menulength=\count120
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing ON on input line 6308.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count121
+\c@Item=\count122
+\c@Hfootnote=\count123
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+\Hy@SectionHShift=\skip70
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
+Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eqparbox/eqparbox.sty
+Package: eqparbox 2013/03/15 v4.0 Create equal-widthed boxes
+\eqp@tempdima=\skip71
+\eqp@tempdimb=\skip72
+\eqp@tabular@box=\box33
+\eqp@list@box=\box34
+\eqp@list@indent=\skip73
+
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks33
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language81
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+\TX@col@width=\dimen159
+\TX@old@table=\dimen160
+\TX@old@col=\dimen161
+\TX@target=\dimen162
+\TX@delta=\dimen163
+\TX@cols=\count126
+\TX@ftn=\toks34
+)
+\@advisor=\count127
+\@examiner=\count128
+\@foreignkeyword=\count129
+\@class=\count130
+\c@keywords=\count131
+\@fields=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count133
+\float@exts=\toks35
+\float@box=\box35
+\@float@everytoks=\toks36
+\@floatcapt=\box36
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks37
+\XKV@tempa@toks=\toks38
+)
+\XKV@depth=\count134
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2015/12/17 v2.02 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count135
+)
+\@glsmfirst=\toks39
+\@glsmrest=\toks40
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2016/01/18 v2.25 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip74
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen164
+)
+\inf@bad=\count136
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count137
+\leftroot@=\count138
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count139
+\DOTSCASE@=\count140
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box37
+\strutbox@=\box38
+\big@size=\dimen165
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count141
+\c@MaxMatrixCols=\count142
+\dotsspace@=\muskip11
+\c@parentequation=\count143
+\dspbrk@lvl=\count144
+\tag@help=\toks41
+\row@=\count145
+\column@=\count146
+\maxfields@=\count147
+\andhelp@=\toks42
+\eqnshift@=\dimen166
+\alignsep@=\dimen167
+\tagshift@=\dimen168
+\tagwidth@=\dimen169
+\totwidth@=\dimen170
+\lineht@=\dimen171
+\@envbody=\toks43
+\multlinegap=\skip75
+\multlinetaggap=\skip76
+\mathdisplay@stack=\toks44
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2016/01/18 v2.25 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count150
+\FP@xia=\count151
+\FP@xib=\count152
+\FP@xfa=\count153
+\FP@xfb=\count154
+\FP@rega=\count155
+\FP@regb=\count156
+\FP@regs=\count157
+\FP@times=\count158
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks45
+\@dtl@tmpcount=\count160
+\dtl@tmplength=\skip77
+\dtl@sortresult=\count161
+\@dtl@numgrpsepcount=\count162
+\@dtl@datatype=\count163
+\dtl@codeA=\count164
+\dtl@codeB=\count165
+\@dtl@foreach@level=\count166
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty
+Package: glossaries-compatible-307 2016/01/24 v4.21 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2015/03/23 v1.2 (NLCT) Track Languages
+
+(/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
+mappings.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-pt-BR.l
+df
+File: glossaries-pt-BR.ldf 2014/11/23 v1.0
+
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuge
+s-utf8.ldf))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries-english/glossaries-english.
+ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count167
+\@gls@tmpb=\toks46
+\gls@tmplen=\skip78
+\glskeylisttok=\toks47
+\glslabeltok=\toks48
+\glsshorttok=\toks49
+\glslongtok=\toks50
+
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y
+Package: glossary-hypernav 2016/01/24 v4.21 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2016/01/24 v4.21 (NLCT)
+\glslistdottedwidth=\skip79
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip80
+\LTright=\skip81
+\LTpre=\skip82
+\LTpost=\skip83
+\LTchunksize=\count168
+\LTcapwidth=\dimen172
+\LT@head=\box39
+\LT@firsthead=\box40
+\LT@foot=\box41
+\LT@lastfoot=\box42
+\LT@cols=\count169
+\LT@rows=\count170
+\c@LT@tables=\count171
+\c@LT@chunks=\count172
+\LT@p@ftn=\toks51
+)
+\glsdescwidth=\skip84
+\glspagelistwidth=\skip85
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count173
+\ST@wd=\dimen173
+\ST@rightskip=\skip86
+\ST@leftskip=\skip87
+\ST@parfillskip=\skip88
+\ST@pageleft=\dimen174
+\ST@headht=\dimen175
+\ST@tailht=\dimen176
+\ST@pagesofar=\dimen177
+\ST@pboxht=\dimen178
+\ST@lineht=\dimen179
+\ST@stretchht=\dimen180
+\ST@prevht=\dimen181
+\ST@toadd=\dimen182
+\ST@dimen=\dimen183
+\ST@pbox=\box43
+))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2016/01/24 v4.21 (NLCT)
+\glstreeindent=\skip89
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `exemplo.glo'.
+
+Package glossaries Info: Writing glossary file exemplo.glo on input line 15.
+\glo@acronym@file=\write5
+\openout5 = `exemplo.acn'.
+
+Package glossaries Info: Writing glossary file exemplo.acn on input line 15.
+
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
+
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+\minimumbiblabelwidth=\skip90
+\ABCIauxlen=\skip91
+\c@ABCIaux=\count174
+\c@ABCImax=\count175
+
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip92
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 862.
+\ABCItoken=\toks52
+)
+No file exemplo.aux.
+\openout1 = `exemplo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+\AtBeginShipoutBox=\box44
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count176
+\scratchdimen=\dimen184
+\scratchbox=\box45
+\nofMPsegments=\count177
+\nofMParguments=\count178
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen185
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
+\everyMPtoPDFconversion=\toks54
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 22.
+\c@lstlisting=\count182
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: hypcap package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-18.78552pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 22.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count183
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+\@outlinefile=\write6
+\openout6 = `exemplo.out'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package hyperref Info: Option `breaklinks' set `true' on input line 44.
+Package hyperref Info: Option `raiselinks' set `true' on input line 44.
+Package hyperref Info: Option `pageanchor' set `true' on input line 44.
+
+<logouft.pdf, id=4, 214.401pt x 241.48618pt>
+File: logouft.pdf Graphic file (type pdf)
+ <use logouft.pdf>
+Package pdftex.def Info: logouft.pdf used on input line 44.
+(pdftex.def)             Requested size: 72.83821pt x 82.03787pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 44.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 44--44
+[]$[]$ $[]$ 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+[1
+
+\openout3 = `exemplo.ist'.
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logouft.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 46.
+ [2
+
+]
+<ficha.pdf, id=23, 597.23125pt x 845.1575pt>
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf>
+Package pdftex.def Info: ficha.pdf used on input line 48.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf>
+Package pdftex.def Info: ficha.pdf used on input line 48.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<ficha.pdf, id=26, page=1, 597.23125pt x 845.1575pt>
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 48.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ficha.pdf Graphic file (type pdf)
+
+<use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 48.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 48.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ficha.pdf Graphic file (type pdf)
+ <use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 48.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ficha.pdf Graphic file (type pdf)
+
+<use ficha.pdf, page 1>
+Package pdftex.def Info: ficha.pdf, page1 used on input line 48.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+ [3
+
+ <./ficha.pdf>]
+
+pdfTeX warning: pdflatex (file ./ata_tccfinal.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<ata_tccfinal.pdf, id=46, 597.43324pt x 827.97496pt>
+File: ata_tccfinal.pdf Graphic file (type pdf)
+ <use ata_tccfinal.pdf>
+Package pdftex.def Info: ata_tccfinal.pdf used on input line 50.
+(pdftex.def)             Requested size: 597.43178pt x 827.97295pt.
+
+
+pdfTeX warning: pdflatex (file ./ata_tccfinal.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+File: ata_tccfinal.pdf Graphic file (type pdf)
+<use ata_tccfinal.pdf>
+Package pdftex.def Info: ata_tccfinal.pdf used on input line 50.
+(pdftex.def)             Requested size: 597.43178pt x 827.97295pt.
+
+
+pdfTeX warning: pdflatex (file ./ata_tccfinal.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./ata_tccfinal.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<ata_tccfinal.pdf, id=49, page=1, 597.43324pt x 827.97496pt>
+File: ata_tccfinal.pdf Graphic file (type pdf)
+
+<use ata_tccfinal.pdf, page 1>
+Package pdftex.def Info: ata_tccfinal.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 597.43178pt x 827.97295pt.
+File: ata_tccfinal.pdf Graphic file (type pdf)
+ <use ata_tccfinal.pdf, page 1>
+Package pdftex.def Info: ata_tccfinal.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 597.93315pt x 828.6678pt.
+File: ata_tccfinal.pdf Graphic file (type pdf)
+
+<use ata_tccfinal.pdf, page 1>
+Package pdftex.def Info: ata_tccfinal.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 597.93315pt x 828.6678pt.
+File: ata_tccfinal.pdf Graphic file (type pdf)
+ <use ata_tccfinal.pdf, page 1>
+Package pdftex.def Info: ata_tccfinal.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 597.93315pt x 828.6678pt.
+File: ata_tccfinal.pdf Graphic file (type pdf)
+
+<use ata_tccfinal.pdf, page 1>
+Package pdftex.def Info: ata_tccfinal.pdf, page1 used on input line 50.
+(pdftex.def)             Requested size: 597.93315pt x 828.6678pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 50.
+ [4 <./ata_tccfinal.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 54.
+ [5
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 60.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 60.
+ [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Overfull \hbox (11.16565pt too wide) in paragraph at lines 64--64
+[]\T1/aer/bx/n/12 Palavra-chave\T1/aer/m/n/12 :  ITIL v3.  gerenciamento de ser
+viços de TI.  UFT Serviços.  Univsersidade
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 66.
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+(./misc/cap-abreviaturas.tex
+\@gls@deffile=\write7
+\openout7 = `exemplo.glsdefs'.
+
+
+No file exemplo.acr.
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 83.
+ [8
+
+]
+\tf@lof=\write8
+\openout8 = `exemplo.lof'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 89.
+ [9
+
+]
+\tf@lot=\write9
+\openout9 = `exemplo.lot'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+ [10
+
+]
+\tf@toc=\write10
+\openout10 = `exemplo.toc'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+ [11
+
+]
+\openout2 = `misc/cap-introducao.aux'.
+
+ (./misc/cap-introducao.tex
+Cap\'{\i }tulo 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2.
+
+LaTeX Warning: Citation `pesquisa-fgv' on page 1 undefined on input line 9.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 1 undefined on inp
+ut line 11.
+
+
+LaTeX Warning: Citation `bernard2012cobit' on page 1 undefined on input line 11
+.
+
+
+LaTeX Warning: Citation `Chrissis:2003:CGP:773274' on page 1 undefined on input
+ line 11.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 1 undefined on input line 11.
+
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 1 undefined on input lin
+e 11.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 1 undefined on input line 11.
+
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 14.
+
+LaTeX Warning: Citation `infra-uft' on page 1 undefined on input line 16.
+
+
+LaTeX Warning: Reference `fig-campus-palmas' on page 1 undefined on input line 
+16.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+[1
+
+
+
+] <figuras/mapa.png, id=129, 1487.5575pt x 1555.8125pt>
+File: figuras/mapa.png Graphic file (type png)
+
+<use figuras/mapa.png>
+Package pdftex.def Info: figuras/mapa.png used on input line 20.
+(pdftex.def)             Requested size: 341.43307pt x 357.09341pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 28.
+ [2 <./figuras/mapa.png>]
+
+LaTeX Warning: Citation `alo_pequi' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Citation `colab' on page 3 undefined on input line 31.
+
+
+LaTeX Warning: Reference `fig-mandi-uft' on page 3 undefined on input line 33.
+
+<figuras/tela-inicial-mandi.jpg, id=149, 1445.4pt x 742.27313pt>
+File: figuras/tela-inicial-mandi.jpg Graphic file (type jpg)
+
+<use figuras/tela-inicial-mandi.jpg>
+Package pdftex.def Info: figuras/tela-inicial-mandi.jpg used on input line 37.
+(pdftex.def)             Requested size: 455.24411pt x 233.7833pt.
+
+
+LaTeX Warning: Citation `intranet_uft' on page 3 undefined on input line 38.
+
+
+LaTeX Warning: Citation `intranet_uft' on page 3 undefined on input line 38.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 44.
+[3 <./figuras/tela-inicial-mandi.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 46.
+
+
+LaTeX Warning: Citation `pesquisa-fgv' on page 4 undefined on input line 48.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 4 undefined on inp
+ut line 51.
+
+
+LaTeX Warning: Citation `arraj2010itil' on page 4 undefined on input line 53.
+
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 56.
+(/usr/share/texlive/texmf-dist/tex/latex/ae/omsaer.fd
+File: omsaer.fd 1999/12/27
+)
+LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 61.
+ [4]
+
+LaTeX Warning: Citation `nayebi2012state' on page 5 undefined on input line 68.
+
+
+
+LaTeX Warning: Citation `pesquisa-idc' on page 5 undefined on input line 70.
+
+
+LaTeX Warning: Citation `charland2011mobile' on page 5 undefined on input line 
+72.
+
+
+LaTeX Warning: Citation `charland2011mobile' on page 5 undefined on input line 
+72.
+
+
+LaTeX Warning: Citation `charland2011mobile' on page 5 undefined on input line 
+74.
+
+
+LaTeX Warning: Citation `charland2011mobile' on page 5 undefined on input line 
+76.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+[5]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 105.
+ [6]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 112.
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 104.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 104.
+ [7]
+\openout2 = `misc/cap-fundamentacao.aux'.
+
+ (./misc/cap-fundamentacao.tex
+Cap\'{\i }tulo 2.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2.
+
+LaTeX Warning: Citation `android' on page 8 undefined on input line 4.
+
+
+LaTeX Warning: Citation `jsf' on page 8 undefined on input line 4.
+
+
+LaTeX Warning: Citation `primefaces' on page 8 undefined on input line 4.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 8 undefined on input line 6.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 6.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 8.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 8.
+
+
+LaTeX Warning: Citation `itilservicemanagement' on page 8 undefined on input li
+ne 10.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 8 undefined on input lin
+e 11.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 8 undefined on input line 11.
+
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 11.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 8 undefined on input line 14.
+
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 8 undefined on input lin
+e 14.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 17.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 17.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 19.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 8 undefined on inp
+ut line 19.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+[8
+
+
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 22.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 22.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 9 undefined on input line 24.
+
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 9 undefined on inp
+ut line 24.
+
+
+LaTeX Warning: Citation `itilbaseditservicemanagementmeasurementsystem' on page
+ 9 undefined on input line 24.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 9 undefined on input lin
+e 37.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 40.
+
+LaTeX Warning: Citation `servicestrategy' on page 9 undefined on input line 42.
+
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 9 undefined on inp
+ut line 42.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 9 undefined on input line 50.
+
+
+
+LaTeX Warning: Citation `itilservicemanagement' on page 9 undefined on input li
+ne 50.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 9 undefined on input line 50.
+
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 51.
+[9]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 53.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 55
+.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 57
+.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 59
+.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 10 undefined on in
+put line 61.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 61
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 65.
+
+LaTeX Warning: Reference `fig-ciclo-de-vida-itil' on page 10 undefined on input
+ line 67.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 67
+.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 10 undefined on in
+put line 67.
+
+Package epstopdf Info: Source file: <figuras/ciclo_itil.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 41554 bytes
+(epstopdf)             Output file: <figuras/ciclo_itil-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 16965 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/ciclo_itil-eps-con
+verted-to.pdf figuras/ciclo_itil.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/ciclo_itil-eps-converted-to.pdf, id=297, 159.59625pt x 145.54375pt>
+File: figuras/ciclo_itil-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/ciclo_itil-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/ciclo_itil-eps-converted-to.pdf used on input 
+line 71.
+(pdftex.def)             Requested size: 318.66948pt x 290.61372pt.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 72
+.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 72
+.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 76
+.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 10 undefined on in
+put line 76.
+
+
+LaTeX Warning: Citation `arraj2010itil' on page 10 undefined on input line 76.
+
+
+LaTeX Warning: Citation `commerce2007official' on page 10 undefined on input li
+ne 76.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 10 undefined on in
+put line 80.
+
+
+LaTeX Warning: Citation `itilimplementationfailure' on page 10 undefined on inp
+ut line 80.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 10 undefined on input line 80
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+[10]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 11 undefined on input li
+ne 82.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 11 undefined on input line 82
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 90.
+[11 <./figuras/ciclo_itil-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 93.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 95.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 12 undefined on in
+put line 95.
+
+
+LaTeX Warning: Citation `commerce2007official' on page 12 undefined on input li
+ne 95.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 12 undefined on in
+put line 97.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 97.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 99.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 12 undefined on in
+put line 99.
+
+
+LaTeX Warning: Reference `relacao-etapas-itil' on page 12 undefined on input li
+ne 101.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 101.
+
+Package epstopdf Info: Source file: <figuras/relacao-etapas-itil.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 28221 bytes
+(epstopdf)             Output file: <figuras/relacao-etapas-itil-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 12219 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/relacao-etapas-iti
+l-eps-converted-to.pdf figuras/relacao-etapas-itil.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/relacao-etapas-itil-eps-converted-to.pdf, id=327, 321.2pt x 189.70876p
+t>
+File: figuras/relacao-etapas-itil-eps-converted-to.pdf Graphic file (type pdf)
+ <use figuras/relacao-etapas-itil-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/relacao-etapas-itil-eps-converted-to.pdf used 
+on input line 105.
+(pdftex.def)             Requested size: 318.66948pt x 188.22038pt.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 106.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 12 undefined on input line 10
+6.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 12 undefined on input li
+ne 106.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 12 undefined on input line 10
+6.
+
+
+LaTeX Warning: Citation `itilimplementationfailure' on page 12 undefined on inp
+ut line 112.
+
+
+LaTeX Warning: Citation `servicedesign' on page 12 undefined on input line 112.
+
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 113.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 113.
+[12]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 13 undefined on input li
+ne 114.
+
+
+LaTeX Warning: Citation `servicedesign' on page 13 undefined on input line 116.
+
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 13 undefined on input li
+ne 127.
+
+
+LaTeX Warning: Reference `relacao-desenho-servico' on page 13 undefined on inpu
+t line 127.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 13 undefined on input li
+ne 127.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 128.
+[13 <./figuras/relacao-etapas-itil-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `servicedesign' on page 14 undefined on input line 129.
+
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 14 undefined on in
+put line 131.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 14 undefined on input li
+ne 131.
+
+Package epstopdf Info: Source file: <figuras/desenho-servico.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 1093900 bytes
+(epstopdf)             Output file: <figuras/desenho-servico-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 342618 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/desenho-servico-ep
+s-converted-to.pdf figuras/desenho-servico.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/desenho-servico-eps-converted-to.pdf, id=349, 517.935pt x 388.45125pt>
+File: figuras/desenho-servico-eps-converted-to.pdf Graphic file (type pdf)
+<use figuras/desenho-servico-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/desenho-servico-eps-converted-to.pdf used on i
+nput line 140.
+(pdftex.def)             Requested size: 455.24411pt x 341.44695pt.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 14 undefined on input li
+ne 141.
+
+
+LaTeX Warning: Citation `servicedesign' on page 14 undefined on input line 141.
+
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 14 undefined on input li
+ne 141.
+
+
+LaTeX Warning: Citation `servicedesign' on page 14 undefined on input line 141.
+
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 14 undefined on in
+put line 145.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 14 undefined on input li
+ne 145.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 14 undefined on in
+put line 147.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 14 undefined on in
+put line 149.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 14 undefined on input li
+ne 151.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 14 undefined on in
+put line 153.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 154.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 154.
+[14]
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 15 undefined on in
+put line 155.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 15 undefined on input li
+ne 155.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 15 undefined on input li
+ne 157.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 15 undefined on in
+put line 159.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 160.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 160.
+[15 <./figuras/desenho-servico-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 16 undefined on input li
+ne 161.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 16 undefined on in
+put line 161.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 16 undefined on in
+put line 169.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 16 undefined on input li
+ne 169.
+
+
+LaTeX Warning: Citation `servicetransiction' on page 16 undefined on input line
+ 173.
+
+
+LaTeX Warning: Citation `itilimplementationfailure' on page 16 undefined on inp
+ut line 173.
+
+
+LaTeX Warning: Citation `servicetransiction' on page 16 undefined on input line
+ 173.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 182.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 182.
+[16]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 184.
+
+
+LaTeX Warning: Citation `servicetransiction' on page 17 undefined on input line
+ 184.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 186.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 17 undefined on in
+put line 186.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 188.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 17 undefined on in
+put line 188.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 190.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 17 undefined on in
+put line 190.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 192.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 17 undefined on in
+put line 192.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 17 undefined on input li
+ne 194.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 17 undefined on in
+put line 194.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 195.
+[17]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 196.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 18 undefined on in
+put line 196.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 18 undefined on input line 2
+00.
+
+
+LaTeX Warning: Citation `itilimplementationfailure' on page 18 undefined on inp
+ut line 200.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 18 undefined on input line 2
+00.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 18 undefined on input line 2
+08.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 208.
+
+
+LaTeX Warning: Reference `relacao-processos-service-operation' on page 18 undef
+ined on input line 208.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 208.
+
+Package epstopdf Info: Source file: <figuras/processos-service-operation.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 203573 bytes
+(epstopdf)             Output file: <figuras/processos-service-operation-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 64233 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/processos-service-
+operation-eps-converted-to.pdf figuras/processos-service-operation.eps>
+(epstopdf)             \includegraphics on input line 212.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/processos-service-operation-eps-converted-to.pdf, id=404, 352.31625pt 
+x 216.81pt>
+File: figuras/processos-service-operation-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use figuras/processos-service-operation-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/processos-service-operation-eps-converted-to.p
+df used on input line 212.
+(pdftex.def)             Requested size: 364.19667pt x 224.12068pt.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 213.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 18 undefined on input line 2
+13.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 213.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 18 undefined on input line 2
+13.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 217.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 18 undefined on in
+put line 217.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 18 undefined on in
+put line 219.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 18 undefined on input li
+ne 221.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 18 undefined on in
+put line 221.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 222.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 222.
+[18]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 19 undefined on input li
+ne 224.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 19 undefined on in
+put line 226.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 19 undefined on input li
+ne 228.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 19 undefined on in
+put line 228.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 19 undefined on in
+put line 228.
+
+
+LaTeX Warning: Citation `serviceoperation' on page 19 undefined on input line 2
+28.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 19 undefined on input li
+ne 230.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 19 undefined on in
+put line 232.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 19 undefined on in
+put line 232.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 233.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 233.
+[19 <./figuras/processos-service-operation-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `continualserviceimprovement' on page 20 undefined on i
+nput line 236.
+
+
+LaTeX Warning: Citation `itilimplementationfailure' on page 20 undefined on inp
+ut line 238.
+
+
+LaTeX Warning: Citation `continualserviceimprovement' on page 20 undefined on i
+nput line 238.
+
+
+LaTeX Warning: Reference `relacao-processos-csi' on page 20 undefined on input 
+line 247.
+
+Package epstopdf Info: Source file: <figuras/processos-ci.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 36449 bytes
+(epstopdf)             Output file: <figuras/processos-ci-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 15459 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/processos-ci-eps-c
+onverted-to.pdf figuras/processos-ci.eps>
+(epstopdf)             \includegraphics on input line 251.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/processos-ci-eps-converted-to.pdf, id=424, 347.2975pt x 213.79875pt>
+File: figuras/processos-ci-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/processos-ci-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/processos-ci-eps-converted-to.pdf used on inpu
+t line 251.
+(pdftex.def)             Requested size: 318.66948pt x 196.18178pt.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 20 undefined on input li
+ne 252.
+
+
+LaTeX Warning: Citation `continualserviceimprovement' on page 20 undefined on i
+nput line 252.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 20 undefined on input li
+ne 252.
+
+
+LaTeX Warning: Citation `continualserviceimprovement' on page 20 undefined on i
+nput line 252.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 20 undefined on input li
+ne 256.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 20 undefined on in
+put line 258.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 261.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 261.
+[20]
+
+LaTeX Warning: Citation `abreu2012implantando' on page 21 undefined on input li
+ne 267.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 21 undefined on in
+put line 267.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 275.
+
+LaTeX Warning: Citation `pressmanengenharia' on page 21 undefined on input line
+ 277.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 21 undefined on input line
+ 277.
+
+
+LaTeX Warning: Citation `ieee1998ieee' on page 21 undefined on input line 278.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 279.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 279.
+[21 <./figuras/processos-ci-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `ieee1998ieee' on page 22 undefined on input line 280.
+
+
+LaTeX Warning: Citation `ieee1998ieee' on page 22 undefined on input line 280.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 288.
+
+LaTeX Warning: Citation `pressmanengenharia' on page 22 undefined on input line
+ 290.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 22 undefined on input line
+ 290.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 292.
+
+LaTeX Warning: Citation `pressmanengenharia' on page 22 undefined on input line
+ 294.
+
+
+LaTeX Warning: Citation `agilemanifesto' on page 22 undefined on input line 294
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 295.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 295.
+[22]
+
+LaTeX Warning: Citation `agilemanifesto' on page 23 undefined on input line 303
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 305.
+
+LaTeX Warning: Citation `pressmanengenharia' on page 23 undefined on input line
+ 307.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 23 undefined on input line
+ 307.
+
+
+LaTeX Warning: Reference `fig-ciclo-scrum' on page 23 undefined on input line 3
+09.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 23 undefined on input line
+ 309.
+
+Package epstopdf Info: Source file: <figuras/scrum_ciclo.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 111475 bytes
+(epstopdf)             Output file: <figuras/scrum_ciclo-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 36894 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/scrum_ciclo-eps-co
+nverted-to.pdf figuras/scrum_ciclo.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/scrum_ciclo-eps-converted-to.pdf, id=459, 487.8225pt x 181.67876pt>
+File: figuras/scrum_ciclo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/scrum_ciclo-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/scrum_ciclo-eps-converted-to.pdf used on input
+ line 313.
+(pdftex.def)             Requested size: 455.24411pt x 169.54718pt.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 23 undefined on input line
+ 314.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 23 undefined on input line
+ 314.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 23 undefined on input line
+ 318.
+
+
+LaTeX Warning: Citation `schwaber1997scrum' on page 23 undefined on input line 
+320.
+
+
+LaTeX Warning: Citation `schwaber1997scrum' on page 23 undefined on input line 
+320.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 321.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 321.
+[23 <./figuras/scrum_ciclo-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 324.
+
+
+LaTeX Warning: Reference `product-backlog' on page 24 undefined on input line 3
+24.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 324.
+
+Package epstopdf Info: Source file: <figuras/product_backlog3.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 27761 bytes
+(epstopdf)             Output file: <figuras/product_backlog3-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 13624 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/product_backlog3-e
+ps-converted-to.pdf figuras/product_backlog3.eps>
+(epstopdf)             \includegraphics on input line 328.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/product_backlog3-eps-converted-to.pdf, id=468, 839.135pt x 913.4125pt>
+File: figuras/product_backlog3-eps-converted-to.pdf Graphic file (type pdf)
+<use figuras/product_backlog3-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/product_backlog3-eps-converted-to.pdf used on 
+input line 328.
+(pdftex.def)             Requested size: 182.09486pt x 198.20567pt.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 329.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 329.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 333.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 24 undefined on input line
+ 337.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 337.
+
+
+LaTeX Warning: Reference `sprint-backlog' on page 24 undefined on input line 33
+9.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 24 undefined on input line
+ 339.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 340.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 340.
+[24 <./figuras/product_backlog3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figuras/sprint-backlog.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 136408 bytes
+(epstopdf)             Output file: <figuras/sprint-backlog-eps-converted-to.pd
+f>
+(epstopdf)             Command: <repstopdf --outfile=figuras/sprint-backlog-eps
+-converted-to.pdf figuras/sprint-backlog.eps>
+(epstopdf)             \includegraphics on input line 343.
+runsystem(repstopdf --outfile=figuras/sprint-backlog-eps-converted-to.pdf figur
+as/sprint-backlog.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <figuras/sprint-backlog-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-02-26 22:03:37
+(epstopdf)                    size: 48213 bytes.
+
+<figuras/sprint-backlog-eps-converted-to.pdf, id=484, 417.56pt x 226.8475pt>
+File: figuras/sprint-backlog-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/sprint-backlog-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/sprint-backlog-eps-converted-to.pdf used on in
+put line 343.
+(pdftex.def)             Requested size: 318.66948pt x 173.13278pt.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 344.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 344.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 350.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 25 undefined on input line
+ 350.
+
+
+LaTeX Warning: Citation `pressmanengenharia' on page 25 undefined on input line
+ 358.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 358.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 362.
+
+
+LaTeX Warning: Citation `rubin2012essential' on page 25 undefined on input line
+ 364.
+
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+ [25 <./figuras/sprint-backlog-eps-converted-to.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 110.
+ [26]
+\openout2 = `misc/cap-estadodaarte.aux'.
+
+
+(./misc/cap-estadodaarte.tex
+Cap\'{\i }tulo 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 6.
+
+LaTeX Warning: Citation `alo_pequi' on page 27 undefined on input line 8.
+
+
+LaTeX Warning: Citation `colab' on page 27 undefined on input line 8.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 10.
+
+LaTeX Warning: Reference `alo-pequi' on page 27 undefined on input line 14.
+
+<figuras/login_alopequi.png, id=503, 130.3269pt x 205.4877pt>
+File: figuras/login_alopequi.png Graphic file (type png)
+
+<use figuras/login_alopequi.png>
+Package pdftex.def Info: figuras/login_alopequi.png used on input line 19.
+(pdftex.def)             Requested size: 182.09486pt x 287.1415pt.
+
+<figuras/tela-inicial-alo-pequi.png, id=504, 542.025pt x 855.195pt>
+File: figuras/tela-inicial-alo-pequi.png Graphic file (type png)
+
+<use figuras/tela-inicial-alo-pequi.png>
+Package pdftex.def Info: figuras/tela-inicial-alo-pequi.png used on input line 
+19.
+(pdftex.def)             Requested size: 182.09486pt x 287.30441pt.
+
+
+LaTeX Warning: Citation `alo_pequi' on page 27 undefined on input line 21.
+
+
+LaTeX Warning: Citation `alo_pequi' on page 27 undefined on input line 21.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+[27
+
+
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 48.
+ [28 <./figuras/login_alopequi.png> <./figuras/tela-inicial-alo-pequi.png>]
+
+LaTeX Warning: Reference `colab-app' on page 29 undefined on input line 49.
+
+<figuras/colab_start.png, id=523, 542.025pt x 903.375pt>
+File: figuras/colab_start.png Graphic file (type png)
+
+<use figuras/colab_start.png>
+Package pdftex.def Info: figuras/colab_start.png used on input line 54.
+(pdftex.def)             Requested size: 182.09486pt x 303.49057pt.
+
+<figuras/tela-inicial-colab-re.png, id=524, 542.025pt x 903.375pt>
+File: figuras/tela-inicial-colab-re.png Graphic file (type png)
+
+<use figuras/tela-inicial-colab-re.png>
+Package pdftex.def Info: figuras/tela-inicial-colab-re.png used on input line 5
+4.
+(pdftex.def)             Requested size: 182.09486pt x 303.49057pt.
+
+
+LaTeX Warning: Citation `colab' on page 29 undefined on input line 56.
+
+
+LaTeX Warning: Citation `colab' on page 29 undefined on input line 56.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+[29 <./figuras/colab_start.png> <./figuras/tela-inicial-colab-re.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 81.
+
+
+LaTeX Warning: Citation `vigilante_app' on page 30 undefined on input line 83.
+
+
+LaTeX Warning: Reference `vigilante-app' on page 30 undefined on input line 83.
+
+
+<figuras/start_vigilante_app.png, id=531, 542.025pt x 963.6pt>
+File: figuras/start_vigilante_app.png Graphic file (type png)
+
+<use figuras/start_vigilante_app.png>
+Package pdftex.def Info: figuras/start_vigilante_app.png used on input line 88.
+
+(pdftex.def)             Requested size: 182.09486pt x 323.72328pt.
+
+<figuras/maps_vigilante.png, id=532, 542.025pt x 963.6pt>
+File: figuras/maps_vigilante.png Graphic file (type png)
+
+<use figuras/maps_vigilante.png>
+Package pdftex.def Info: figuras/maps_vigilante.png used on input line 88.
+(pdftex.def)             Requested size: 182.09486pt x 323.72328pt.
+
+
+LaTeX Warning: Citation `vigilante_app' on page 30 undefined on input line 90.
+
+
+LaTeX Warning: Citation `vigilante_app' on page 30 undefined on input line 90.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 95.
+[30 <./figuras/start_vigilante_app.png> <./figuras/maps_vigilante.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 113.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 113.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 31 undefined on in
+put line 115.
+
+
+LaTeX Warning: Citation `servicestrategy' on page 31 undefined on input line 11
+7.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 31 undefined on in
+put line 117.
+
+
+LaTeX Warning: Citation `abreu2012implantando' on page 31 undefined on input li
+ne 119.
+
+
+LaTeX Warning: Citation `albero2010case' on page 31 undefined on input line 119
+.
+
+
+LaTeX Warning: Citation `arraj2010itil' on page 31 undefined on input line 119.
+
+
+
+LaTeX Warning: Citation `zhen2007itil' on page 31 undefined on input line 119.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 120.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 120.
+[31]
+
+LaTeX Warning: Citation `servicestrategy' on page 32 undefined on input line 12
+1.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 32 undefined on in
+put line 121.
+
+
+LaTeX Warning: Citation `itilbaseditservicemanagementmeasurementsystem' on page
+ 32 undefined on input line 121.
+
+
+LaTeX Warning: Citation `elephant2004benefits' on page 32 undefined on input li
+ne 121.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 123.
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 125.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 125.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 125.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 127.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 32 undefined on in
+put line 127.
+
+
+LaTeX Warning: Citation `Chrissis:2003:CGP:773274' on page 32 undefined on inpu
+t line 127.
+
+
+LaTeX Warning: Citation `bernard2012cobit' on page 32 undefined on input line 1
+27.
+
+
+LaTeX Warning: Citation `pultorak2008mof' on page 32 undefined on input line 12
+7.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 32 undefined on in
+put line 127.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 127.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 129.
+
+
+LaTeX Warning: Citation `mailsi' on page 32 undefined on input line 129.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 32 undefined on input line
+ 129.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 130.
+[32]
+
+LaTeX Warning: Citation `jantti2009defining' on page 33 undefined on input line
+ 131.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 33 undefined on input line
+ 133.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 33 undefined on input line
+ 133.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 33 undefined on input line
+ 133.
+
+
+LaTeX Warning: Citation `jantti2009defining' on page 33 undefined on input line
+ 135.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 137.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 137.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 33 undefined on input line 139
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 33 undefined on input line 139
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+[33]
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 141
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 143
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 145
+.
+
+
+LaTeX Warning: Reference `tbI_itil1' on page 34 undefined on input line 145.
+
+
+LaTeX Warning: Reference `tbI_itil2' on page 34 undefined on input line 145.
+
+
+LaTeX Warning: Reference `tbI_itil3' on page 34 undefined on input line 145.
+
+
+Overfull \hbox (7.23259pt too wide) in paragraph at lines 150--158
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 173
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 173
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 191
+.
+
+
+LaTeX Warning: Citation `spremic2008and' on page 34 undefined on input line 191
+.
+
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+ [34]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+ [35]
+\openout2 = `misc/cap-metodologia.aux'.
+
+ (./misc/cap-metodologia.tex
+Cap\'{\i }tulo 4.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 7.
+
+LaTeX Warning: Reference `fluxograma-dev' on page 36 undefined on input line 11
+.
+
+Package epstopdf Info: Source file: <figuras/fluxograma_dev.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 79800 bytes
+(epstopdf)             Output file: <figuras/fluxograma_dev-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 78263 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/fluxograma_dev-eps
+-converted-to.pdf figuras/fluxograma_dev.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/fluxograma_dev-eps-converted-to.pdf, id=647, 397.485pt x 269.005pt>
+File: figuras/fluxograma_dev-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/fluxograma_dev-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/fluxograma_dev-eps-converted-to.pdf used on in
+put line 17.
+(pdftex.def)             Requested size: 318.66948pt x 215.67221pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `fluxograma-dev' on page 36 undefined on input line 22
+.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 23.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 23.
+[36
+
+
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 24.
+
+
+LaTeX Warning: Citation `gitcontrole' on page 37 undefined on input line 28.
+
+
+LaTeX Warning: Citation `bitbucket' on page 37 undefined on input line 28.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+[37 <./figuras/fluxograma_dev-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `ambiente_dev' on page 38 undefined on input line 38.
+
+Package epstopdf Info: Source file: <figuras/develop.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 323337 bytes
+(epstopdf)             Output file: <figuras/develop-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 211061 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/develop-eps-conver
+ted-to.pdf figuras/develop.eps>
+(epstopdf)             \includegraphics on input line 46.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/develop-eps-converted-to.pdf, id=686, 1231.60126pt x 803.0pt>
+File: figuras/develop-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/develop-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/develop-eps-converted-to.pdf used on input lin
+e 46.
+(pdftex.def)             Requested size: 318.66948pt x 207.77034pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 50.
+ [38]
+
+LaTeX Warning: Reference `ambiente_prod' on page 39 undefined on input line 55.
+
+
+Package epstopdf Info: Source file: <figuras/production.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 371504 bytes
+(epstopdf)             Output file: <figuras/production-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 330877 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/production-eps-con
+verted-to.pdf figuras/production.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/production-eps-converted-to.pdf, id=708, 584.1825pt x 298.11375pt>
+File: figuras/production-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/production-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/production-eps-converted-to.pdf used on input 
+line 63.
+(pdftex.def)             Requested size: 318.66948pt x 162.6257pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 67.
+ [39 <./figuras/develop-eps-converted-to.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 68.
+
+
+LaTeX Warning: Reference `itil_aply' on page 40 undefined on input line 76.
+
+Package epstopdf Info: Source file: <figuras/itil_aply.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 1167156 bytes
+(epstopdf)             Output file: <figuras/itil_aply-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 381914 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/itil_aply-eps-conv
+erted-to.pdf figuras/itil_aply.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/itil_aply-eps-converted-to.pdf, id=725, 586.19pt x 464.73625pt>
+File: figuras/itil_aply-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/itil_aply-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/itil_aply-eps-converted-to.pdf used on input l
+ine 80.
+(pdftex.def)             Requested size: 318.66948pt x 252.64156pt.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 40 undefined on in
+put line 81.
+
+
+LaTeX Warning: Citation `introductoryoverviewofitil' on page 40 undefined on in
+put line 81.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 84.
+[40 <./figuras/production-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `servicestrategy' on page 41 undefined on input line 10
+0.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 101.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 101.
+[41 <./figuras/itil_aply-eps-converted-to.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 122.
+ [42]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+ [43]
+
+LaTeX Warning: Citation `anderson2010kanban' on page 44 undefined on input line
+ 145.
+
+
+LaTeX Warning: Reference `quadro-kanban' on page 44 undefined on input line 145
+.
+
+Package epstopdf Info: Source file: <figuras/kanban.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 12804 bytes
+(epstopdf)             Output file: <figuras/kanban-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 5216 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/kanban-eps-convert
+ed-to.pdf figuras/kanban.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/kanban-eps-converted-to.pdf, id=767, 598.235pt x 277.035pt>
+File: figuras/kanban-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/kanban-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/kanban-eps-converted-to.pdf used on input line
+ 151.
+(pdftex.def)             Requested size: 318.66948pt x 147.57184pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 161.
+ [44 <./figuras/kanban-eps-converted-to.pdf>]
+
+LaTeX Warning: Citation `bangor2009determining' on page 45 undefined on input l
+ine 162.
+
+
+LaTeX Warning: Citation `bangor2009determining' on page 45 undefined on input l
+ine 164.
+
+
+LaTeX Warning: Citation `Brooke:2013:SR:2817912.2817913' on page 45 undefined o
+n input line 166.
+
+
+LaTeX Warning: Reference `escala-sus' on page 45 undefined on input line 168.
+
+<figuras/escala_sus.png, id=786, 1109.14375pt x 435.6275pt>
+File: figuras/escala_sus.png Graphic file (type png)
+
+<use figuras/escala_sus.png>
+Package pdftex.def Info: figuras/escala_sus.png used on input line 172.
+(pdftex.def)             Requested size: 455.24411pt x 178.8012pt.
+
+
+LaTeX Warning: Citation `bangor2009determining' on page 45 undefined on input l
+ine 173.
+
+
+LaTeX Warning: Citation `bangor2009determining' on page 45 undefined on input l
+ine 173.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+[45]
+
+LaTeX Warning: Reference `tabela-sus' on page 46 undefined on input line 177.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 197.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\acrshort' on input line 197.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 200.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 200.
+[46 <./figuras/escala_sus.png>]
+
+LaTeX Warning: Reference `diagram-uml-casodeuso' on page 47 undefined on input 
+line 203.
+
+Package epstopdf Info: Source file: <figuras/uml-casodeuso.eps>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 295458 bytes
+(epstopdf)             Output file: <figuras/uml-casodeuso-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-02-27 01:02:48
+(epstopdf)                    size: 278138 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/uml-casodeuso-eps-
+converted-to.pdf figuras/uml-casodeuso.eps>
+(epstopdf)             \includegraphics on input line 207.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/uml-casodeuso-eps-converted-to.pdf, id=807, 509.905pt x 297.11pt>
+File: figuras/uml-casodeuso-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/uml-casodeuso-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/uml-casodeuso-eps-converted-to.pdf used on inp
+ut line 207.
+(pdftex.def)             Requested size: 455.24411pt x 265.27483pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 217.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 217.
+ [47 <./figuras/uml-casodeuso-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `diagram-android' on page 48 undefined on input line 2
+18.
+
+
+LaTeX Warning: Reference `diagram-web' on page 48 undefined on input line 218.
+
+
+LaTeX Warning: Reference `diagram-android' on page 48 undefined on input line 2
+20.
+
+
+LaTeX Warning: Reference `diagram-web' on page 48 undefined on input line 222.
+
+<figuras/uft-servicos-android-diagram.png, id=820, 919.435pt x 1132.23pt>
+File: figuras/uft-servicos-android-diagram.png Graphic file (type png)
+
+<use figuras/uft-servicos-android-diagram.png>
+Package pdftex.def Info: figuras/uft-servicos-android-diagram.png used on input
+ line 226.
+(pdftex.def)             Requested size: 919.43275pt x 1132.22723pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 230.
+ [48]
+<figuras/uft-servicos-diagram.png, id=827, 2716.1475pt x 1634.105pt>
+File: figuras/uft-servicos-diagram.png Graphic file (type png)
+
+<use figuras/uft-servicos-diagram.png>
+Package pdftex.def Info: figuras/uft-servicos-diagram.png used on input line 23
+3.
+(pdftex.def)             Requested size: 2716.1409pt x 1634.10103pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+ [49 <./figuras/uft-servicos-android-diagram.png>]
+Overfull \vbox (1.80005pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+
+[50 <./figuras/uft-servicos-diagram.png>]
+
+LaTeX Warning: Reference `diagram-atividade' on page 51 undefined on input line
+ 240.
+
+
+LaTeX Warning: Reference `diagram-atividade' on page 51 undefined on input line
+ 242.
+
+
+LaTeX Warning: Reference `diagram-web' on page 51 undefined on input line 244.
+
+<figuras/atividade.png, id=845, 899.7615pt x 1340.6085pt>
+File: figuras/atividade.png Graphic file (type png)
+
+<use figuras/atividade.png>
+Package pdftex.def Info: figuras/atividade.png used on input line 248.
+(pdftex.def)             Requested size: 455.24411pt x 678.30092pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 252.
+ [51]
+Overfull \vbox (12.71783pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 252.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 252.
+
+[52 <./figuras/atividade.png>]
+
+LaTeX Warning: Reference `deployment_diagram' on page 53 undefined on input lin
+e 255.
+
+Package epstopdf Info: Source file: <figuras/deployment_diagram.eps>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 247585 bytes
+(epstopdf)             Output file: <figuras/deployment_diagram-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-02-27 01:02:46
+(epstopdf)                    size: 235617 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/deployment_diagram
+-eps-converted-to.pdf figuras/deployment_diagram.eps>
+(epstopdf)             \includegraphics on input line 259.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/deployment_diagram-eps-converted-to.pdf, id=857, 586.19pt x 256.96pt>
+File: figuras/deployment_diagram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/deployment_diagram-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/deployment_diagram-eps-converted-to.pdf used o
+n input line 259.
+(pdftex.def)             Requested size: 455.24411pt x 199.55754pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 266.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 275.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 275.
+ [53 <./figuras/deployment_diagram-eps-converted-to.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 285.
+ [54]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 303.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 303.
+ [55])
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 128.
+ [56]
+\openout2 = `misc/cap-resultados.aux'.
+
+ (./misc/cap-resultados.tex
+Cap\'{\i }tulo 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 16.
+[57
+
+
+
+]
+
+LaTeX Warning: Reference `diagram-uml-casodeuso' on page 58 undefined on input 
+line 17.
+
+
+LaTeX Warning: Reference `start-uftservicos' on page 58 undefined on input line
+ 21.
+
+<figuras/applogin_uftservicos.png, id=1003, 722.7pt x 1284.8pt>
+File: figuras/applogin_uftservicos.png Graphic file (type png)
+
+<use figuras/applogin_uftservicos.png>
+Package pdftex.def Info: figuras/applogin_uftservicos.png used on input line 26
+.
+(pdftex.def)             Requested size: 136.57462pt x 242.80104pt.
+
+<figuras/appstart-chamadoaberto-uftservicos.png, id=1004, 722.7pt x 1284.8pt>
+File: figuras/appstart-chamadoaberto-uftservicos.png Graphic file (type png)
+
+<use figuras/appstart-chamadoaberto-uftservicos.png>
+Package pdftex.def Info: figuras/appstart-chamadoaberto-uftservicos.png used on
+ input line 26.
+(pdftex.def)             Requested size: 136.57462pt x 242.80104pt.
+
+
+LaTeX Warning: Reference `form-uftservicos' on page 58 undefined on input line 
+32.
+
+<figuras/appform-chamado-uftservicos.png, id=1008, 722.7pt x 1284.8pt>
+File: figuras/appform-chamado-uftservicos.png Graphic file (type png)
+
+<use figuras/appform-chamado-uftservicos.png>
+Package pdftex.def Info: figuras/appform-chamado-uftservicos.png used on input 
+line 37.
+(pdftex.def)             Requested size: 136.57462pt x 242.80104pt.
+
+<figuras/appstart-chamadodetalhes-uftservicos.png, id=1009, 722.7pt x 1284.8pt>
+File: figuras/appstart-chamadodetalhes-uftservicos.png Graphic file (type png)
+<use figuras/appstart-chamadodetalhes-uftservicos.png>
+Package pdftex.def Info: figuras/appstart-chamadodetalhes-uftservicos.png used 
+on input line 37.
+(pdftex.def)             Requested size: 136.57462pt x 242.80104pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 42.
+ [58 <./figuras/applogin_uftservicos.png> <./figuras/appstart-chamadoaberto-uft
+servicos.png>]
+
+LaTeX Warning: Reference `tabapp-login' on page 59 undefined on input line 43.
+
+
+LaTeX Warning: Reference `tabapp-start' on page 59 undefined on input line 43.
+
+<figuras/tabapp-login-uftservicos.png, id=1015, 2569.6pt x 1606.0pt>
+File: figuras/tabapp-login-uftservicos.png Graphic file (type png)
+
+<use figuras/tabapp-login-uftservicos.png>
+Package pdftex.def Info: figuras/tabapp-login-uftservicos.png used on input lin
+e 47.
+(pdftex.def)             Requested size: 318.66948pt x 199.15665pt.
+
+<figuras/tabapp-start-uftservicos.png, id=1018, 2569.6pt x 1606.0pt>
+File: figuras/tabapp-start-uftservicos.png Graphic file (type png)
+
+<use figuras/tabapp-start-uftservicos.png>
+Package pdftex.def Info: figuras/tabapp-start-uftservicos.png used on input lin
+e 54.
+(pdftex.def)             Requested size: 318.66948pt x 199.15665pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 58.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 58.
+ [59 <./figuras/appform-chamado-uftservicos.png> <./figuras/appstart-chamadodet
+alhes-uftservicos.png> <./figuras/tabapp-login-uftservicos.png>]
+
+LaTeX Warning: Reference `web-start' on page 60 undefined on input line 61.
+
+
+LaTeX Warning: Reference `web-atendimento' on page 60 undefined on input line 6
+1.
+
+
+LaTeX Warning: Reference `web-start' on page 60 undefined on input line 61.
+
+<figuras/web-telainicial-uftservicos.png, id=1030, 1927.2pt x 1084.05pt>
+File: figuras/web-telainicial-uftservicos.png Graphic file (type png)
+
+<use figuras/web-telainicial-uftservicos.png>
+Package pdftex.def Info: figuras/web-telainicial-uftservicos.png used on input 
+line 65.
+(pdftex.def)             Requested size: 318.66948pt x 179.24098pt.
+
+<figuras/web-atendimento.png, id=1033, 1927.2pt x 1084.05pt>
+File: figuras/web-atendimento.png Graphic file (type png)
+
+<use figuras/web-atendimento.png>
+Package pdftex.def Info: figuras/web-atendimento.png used on input line 72.
+(pdftex.def)             Requested size: 318.66948pt x 179.24098pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+ [60 <./figuras/tabapp-start-uftservicos.png> <./figuras/web-telainicial-uftser
+vicos.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 91.
+ [61 <./figuras/web-atendimento.png>]
+
+LaTeX Warning: Reference `time_task' on page 62 undefined on input line 101.
+
+
+LaTeX Warning: Reference `time_pizza' on page 62 undefined on input line 101.
+
+<figuras/time_task.png, id=1050, 1124.2pt x 434.62375pt>
+File: figuras/time_task.png Graphic file (type png)
+
+<use figuras/time_task.png>
+Package pdftex.def Info: figuras/time_task.png used on input line 105.
+(pdftex.def)             Requested size: 455.24411pt x 176.00175pt.
+
+<figuras/time_pizza.png, id=1051, 1126.2075pt x 434.62375pt>
+File: figuras/time_pizza.png Graphic file (type png)
+
+<use figuras/time_pizza.png>
+Package pdftex.def Info: figuras/time_pizza.png used on input line 112.
+(pdftex.def)             Requested size: 455.24411pt x 175.68343pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 116.
+ [62 <./figuras/time_task.png>]
+
+LaTeX Warning: Reference `tbl_config_desempenho' on page 63 undefined on input 
+line 123.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 141.
+[63 <./figuras/time_pizza.png>]
+
+LaTeX Warning: Reference `login_rest' on page 64 undefined on input line 142.
+
+<figuras/login_rest.png, id=1072, 1136.245pt x 772.8875pt>
+File: figuras/login_rest.png Graphic file (type png)
+
+<use figuras/login_rest.png>
+Package pdftex.def Info: figuras/login_rest.png used on input line 147.
+(pdftex.def)             Requested size: 455.24411pt x 309.66843pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 158.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 158.
+ [64 <./figuras/login_rest.png>]
+
+LaTeX Warning: Reference `caixa_branca' on page 65 undefined on input line 161.
+
+
+<figuras/selenium_test.png, id=1081, 776.9025pt x 641.39626pt>
+File: figuras/selenium_test.png Graphic file (type png)
+
+<use figuras/selenium_test.png>
+Package pdftex.def Info: figuras/selenium_test.png used on input line 166.
+(pdftex.def)             Requested size: 318.66948pt x 263.0916pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+ [65 <./figuras/selenium_test.png>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 183.
+
+
+LaTeX Warning: Reference `netdata' on page 66 undefined on input line 189.
+
+<figuras/netdata.png, id=1093, 1393.205pt x 706.64pt>
+File: figuras/netdata.png Graphic file (type png)
+
+<use figuras/netdata.png>
+Package pdftex.def Info: figuras/netdata.png used on input line 194.
+(pdftex.def)             Requested size: 318.66948pt x 161.62883pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 198.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 198.
+ [66]
+
+LaTeX Warning: Reference `google_analytics' on page 67 undefined on input line 
+201.
+
+Package epstopdf Info: Source file: <figuras/analytics_acesso.eps>
+(epstopdf)                    date: 2017-02-27 01:02:44
+(epstopdf)                    size: 128476 bytes
+(epstopdf)             Output file: <figuras/analytics_acesso-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-02-27 01:02:44
+(epstopdf)                    size: 111694 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/analytics_acesso-e
+ps-converted-to.pdf figuras/analytics_acesso.eps>
+(epstopdf)             \includegraphics on input line 206.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/analytics_acesso-eps-converted-to.pdf, id=1101, 497.86pt x 275.0275pt>
+File: figuras/analytics_acesso-eps-converted-to.pdf Graphic file (type pdf)
+<use figuras/analytics_acesso-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/analytics_acesso-eps-converted-to.pdf used on 
+input line 206.
+(pdftex.def)             Requested size: 364.19667pt x 201.19226pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 212.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 212.
+ [67 <./figuras/netdata.png> <./figuras/analytics_acesso-eps-converted-to.pdf>]
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 140.
+ [68]
+\openout2 = `misc/cap-conclusao.aux'.
+
+
+(./misc/cap-conclusao.tex
+Cap\'{\i }tulo 6.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+[69
+
+
+
+])
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 146.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 146.
+ [70]
+\openout2 = `misc/cap-apendice.aux'.
+
+ (./misc/cap-apendice.tex
+Cap\'{\i }tulo 7.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+<apendice/srs_ieee830.pdf, id=1141, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf>
+Package pdftex.def Info: apendice/srs_ieee830.pdf used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf>
+Package pdftex.def Info: apendice/srs_ieee830.pdf used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<apendice/srs_ieee830.pdf, id=1144, page=1, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 1>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page1 used on input line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 1>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+
+[71
+
+
+
+]
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 1>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 1>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 1>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page1 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+
+[72 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1240, page=2, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 2>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page2 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 2>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page2 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 2>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page2 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [73 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1246, page=3, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 3>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page3 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 3>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page3 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 3>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page3 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [74 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1253, page=4, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 4>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page4 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 4>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page4 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 4>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page4 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [75 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1259, page=5, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 5>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page5 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 5>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page5 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 5>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page5 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [76 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1265, page=6, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 6>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page6 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 6>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page6 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 6>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page6 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [77 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1271, page=7, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 7>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 7>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 7>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page7 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [78 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1277, page=8, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 8>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 8>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 8>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page8 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [79 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1283, page=9, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 9>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+ <use apendice/srs_ieee830.pdf, page 9>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 9>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page9 used on input line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [80 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1290, page=10, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 10>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page10 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 10>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page10 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 10>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page10 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [81 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1296, page=11, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 11>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page11 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 11>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page11 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 11>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page11 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [82 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1302, page=12, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 12>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page12 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 12>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page12 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 12>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page12 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [83 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1308, page=13, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 13>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page13 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 13>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page13 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 13>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page13 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [84 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1314, page=14, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 14>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page14 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 14>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page14 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 14>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page14 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [85 <./apendice/srs_ieee830.pdf>]
+<apendice/srs_ieee830.pdf, id=1320, page=15, 614.295pt x 794.97pt>
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 15>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page15 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 15>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page15 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/srs_ieee830.pdf Graphic file (type pdf)
+
+<use apendice/srs_ieee830.pdf, page 15>
+Package pdftex.def Info: apendice/srs_ieee830.pdf, page15 used on input line 5.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [86 <./apendice/srs_ieee830.pdf>]
+<apendice/form_sus.pdf, id=1327, 597.23125pt x 845.1575pt>
+File: apendice/form_sus.pdf Graphic file (type pdf)
+
+<use apendice/form_sus.pdf>
+Package pdftex.def Info: apendice/form_sus.pdf used on input line 9.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: apendice/form_sus.pdf Graphic file (type pdf)
+ <use apendice/form_sus.pdf>
+Package pdftex.def Info: apendice/form_sus.pdf used on input line 9.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<apendice/form_sus.pdf, id=1330, page=1, 597.23125pt x 845.1575pt>
+File: apendice/form_sus.pdf Graphic file (type pdf)
+
+<use apendice/form_sus.pdf, page 1>
+Package pdftex.def Info: apendice/form_sus.pdf, page1 used on input line 9.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: apendice/form_sus.pdf Graphic file (type pdf)
+ <use apendice/form_sus.pdf, page 1>
+Package pdftex.def Info: apendice/form_sus.pdf, page1 used on input line 9.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+
+[87]
+File: apendice/form_sus.pdf Graphic file (type pdf)
+ <use apendice/form_sus.pdf, page 1>
+Package pdftex.def Info: apendice/form_sus.pdf, page1 used on input line 9.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/form_sus.pdf Graphic file (type pdf)
+ <use apendice/form_sus.pdf, page 1>
+Package pdftex.def Info: apendice/form_sus.pdf, page1 used on input line 9.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/form_sus.pdf Graphic file (type pdf)
+
+<use apendice/form_sus.pdf, page 1>
+Package pdftex.def Info: apendice/form_sus.pdf, page1 used on input line 9.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+ [88 <./apendice/form_sus.pdf>]
+<apendice/perfil_sus.pdf, id=1352, 597.23125pt x 845.1575pt>
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf>
+Package pdftex.def Info: apendice/perfil_sus.pdf used on input line 13.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf>
+Package pdftex.def Info: apendice/perfil_sus.pdf used on input line 13.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<apendice/perfil_sus.pdf, id=1355, page=1, 597.23125pt x 845.1575pt>
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 1>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf, page 1>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+
+[89]
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf, page 1>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 1>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf, page 1>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+
+[90 <./apendice/perfil_sus.pdf>]
+<apendice/perfil_sus.pdf, id=1381, page=2, 597.23125pt x 845.1575pt>
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 2>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf, page 2>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 2>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+ [91 <./apendice/perfil_sus.pdf>]
+<apendice/perfil_sus.pdf, id=1387, page=3, 597.23125pt x 845.1575pt>
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 3>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+ <use apendice/perfil_sus.pdf, page 3>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: apendice/perfil_sus.pdf Graphic file (type pdf)
+
+<use apendice/perfil_sus.pdf, page 3>
+Package pdftex.def Info: apendice/perfil_sus.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 13.
+ [92 <./apendice/perfil_sus.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1394, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf used on input line 17.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+<use apendice/sla_uft_servicos.pdf>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf used on input line 17.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1397, page=1, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 1>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page1 used on input lin
+e 17.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 1>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page1 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [93]
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 1>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page1 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 1>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page1 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 1>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page1 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [94 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1428, page=2, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 2>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page2 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 2>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page2 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 2>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page2 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [95 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1433, page=3, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 3>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page3 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 3>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page3 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 3>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page3 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [96 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1438, page=4, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 4>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page4 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 4>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page4 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 4>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page4 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [97 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1443, page=5, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 5>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page5 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 5>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page5 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 5>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page5 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [98 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1449, page=6, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 6>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page6 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 6>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page6 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 6>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page6 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [99 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1454, page=7, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 7>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page7 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 7>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page7 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 7>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page7 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [100 <./apendice/sla_uft_servicos.pdf>]
+
+pdfTeX warning: pdflatex (file ./apendice/sla_uft_servicos.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<apendice/sla_uft_servicos.pdf, id=1459, page=8, 614.295pt x 794.97pt>
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 8>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page8 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 8>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page8 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: apendice/sla_uft_servicos.pdf Graphic file (type pdf)
+
+<use apendice/sla_uft_servicos.pdf, page 8>
+Package pdftex.def Info: apendice/sla_uft_servicos.pdf, page8 used on input lin
+e 17.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 17.
+ [101 <./apendice/sla_uft_servicos.pdf>])
+\openout2 = `misc/cap-anexos.aux'.
+
+ (./misc/cap-anexos.tex
+Cap\'{\i }tulo 8.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+
+
+pdfTeX warning: pdflatex (file ./anexos/secretaria_acad_alunos.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/secretaria_acad_alunos.pdf, id=1470, 614.295pt x 794.97pt>
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf used on input line 5
+.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./anexos/secretaria_acad_alunos.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+<use anexos/secretaria_acad_alunos.pdf>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf used on input line 5
+.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./anexos/secretaria_acad_alunos.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./anexos/secretaria_acad_alunos.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/secretaria_acad_alunos.pdf, id=1473, page=1, 614.295pt x 794.97pt>
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 1>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page1 used on input
+ line 5.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 1>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page1 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [102
+
+
+
+]
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 1>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page1 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 1>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page1 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 1>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page1 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [103 <./anexos/secretaria_acad_alunos.pdf>]
+
+pdfTeX warning: pdflatex (file ./anexos/secretaria_acad_alunos.pdf): PDF inclus
+ion: found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/secretaria_acad_alunos.pdf, id=1495, page=2, 614.295pt x 794.97pt>
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 2>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page2 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 2>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page2 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/secretaria_acad_alunos.pdf Graphic file (type pdf)
+
+<use anexos/secretaria_acad_alunos.pdf, page 2>
+Package pdftex.def Info: anexos/secretaria_acad_alunos.pdf, page2 used on input
+ line 5.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+ [104 <./anexos/secretaria_acad_alunos.pdf>]
+
+pdfTeX warning: pdflatex (file ./anexos/perfil_servidores.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/perfil_servidores.pdf, id=1501, 614.295pt x 794.97pt>
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf>
+Package pdftex.def Info: anexos/perfil_servidores.pdf used on input line 9.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./anexos/perfil_servidores.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+<use anexos/perfil_servidores.pdf>
+Package pdftex.def Info: anexos/perfil_servidores.pdf used on input line 9.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex (file ./anexos/perfil_servidores.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./anexos/perfil_servidores.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/perfil_servidores.pdf, id=1504, page=1, 614.295pt x 794.97pt>
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 1>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page1 used on input line
+ 9.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 1>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page1 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+ [105]
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 1>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page1 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 1>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page1 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 1>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page1 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+ [106 <./anexos/perfil_servidores.pdf>]
+
+pdfTeX warning: pdflatex (file ./anexos/perfil_servidores.pdf): PDF inclusion: 
+found PDF version <1.7>, but at most version <1.5> allowed
+<anexos/perfil_servidores.pdf, id=1517, page=2, 614.295pt x 794.97pt>
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 2>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page2 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 2>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page2 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: anexos/perfil_servidores.pdf Graphic file (type pdf)
+
+<use anexos/perfil_servidores.pdf, page 2>
+Package pdftex.def Info: anexos/perfil_servidores.pdf, page2 used on input line
+ 9.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 9.
+ [107 <./anexos/perfil_servidores.pdf>])
+No file exemplo.bbl.
+
+Package lastpage Warning: Rerun to get the references right on input line 167.
+
+
+AED: lastpage setting LastPage
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 167.
+
+LaTeX Warning: Rerun to correct eqparbox widths.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+(./exemplo.aux (./misc/cap-introducao.aux) (./misc/cap-fundamentacao.aux)
+(./misc/cap-estadodaarte.aux) (./misc/cap-metodologia.aux)
+(./misc/cap-resultados.aux) (./misc/cap-conclusao.aux) (./misc/cap-apendice.aux
+) (./misc/cap-anexos.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+
+
+Package rerunfilecheck Warning: File `exemplo.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `exemplo.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  FF79642383EE2311968521ECA71D848E;7272.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+ ) 
+Here is how much of TeX's memory you used:
+ 22250 strings out of 493029
+ 328253 string characters out of 6136234
+ 460877 words of memory out of 5000000
+ 24876 multiletter control sequences out of 15000+600000
+ 64303 words of font info for 128 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,18n,79p,2056b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{glo:qrcode} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ide} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:pojo} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:poo} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:jpa} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:javaee} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:jdbc} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ejb} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:sus} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:http} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sdk} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:rest} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:uml} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:mof} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ism} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:gps} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:srs} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ieee} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:slm_itil} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:sla} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ccta} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:hsmo} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:itsm} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ogc} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:jsf} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:css} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:html} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:idc} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ios} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:ibm} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:hp} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:mandi} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:rh} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:uft} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:itil} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:iso} has been referenced but does not exist, re
+placed by a fixed one
+
+pdfTeX warning (dest): name{glo:cmmi} has been referenced but does not exist, r
+eplaced by a fixed one
+
+pdfTeX warning (dest): name{glo:cobit} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:ti} has been referenced but does not exist, rep
+laced by a fixed one
+
+pdfTeX warning (dest): name{glo:fgveasp} has been referenced but does not exist
+, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on exemplo.pdf (118 pages, 11345843 bytes).
+PDF statistics:
+ 1635 PDF objects out of 1728 (max. 8388607)
+ 1270 compressed objects within 13 object streams
+ 319 named destinations out of 1000 (max. 500000)
+ 496 words of extra memory for PDF output out of 10000 (max. 10000000)
+

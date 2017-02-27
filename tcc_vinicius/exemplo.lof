@@ -1,0 +1,45 @@
+\select@language {brazil}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Campus Universit\IeC {\'a}rio de Palmas da \acrshort {uft}.\relax }}{2}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Tela inicial sistema \acrshort {mandi} (Adaptada de \cite {intranet_uft}).\relax }}{3}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Ciclo de Vida de Servi\IeC {\c c}os \acrshort {itil} v3 (Adaptada de \cite {servicestrategy}).\relax }}{11}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Rela\IeC {\c c}\IeC {\~a}o entre as etapas do Ciclo de Vida de Servi\IeC {\c c}os (Adaptada de \cite {abreu2012implantando, servicestrategy}).\relax }}{13}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Vis\IeC {\~a}o geral dos processos do Desenho de Servi\IeC {\c c}o (Adaptada de \cite {abreu2012implantando, servicedesign}).\relax }}{15}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Vis\IeC {\~a}o geral dos processos do Opera\IeC {\c c}\IeC {\~a}o de Servi\IeC {\c c}o (Adaptada de \cite {abreu2012implantando, serviceoperation}).\relax }}{19}{figure.caption.12}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Vis\IeC {\~a}o geral dos processos do Melhoria Cont\IeC {\'\i }nua do Servi\IeC {\c c}o (Adaptada de \cite {abreu2012implantando, continualserviceimprovement}).\relax }}{21}{figure.caption.13}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ciclo de atividades da metodologia \textit {Scrum} (Adaptada de \cite {pressmanengenharia}).\relax }}{23}{figure.caption.14}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Fase de \textit {Product Backlog} do \textit {Scrum} (Adaptada de \cite {rubin2012essential}).\relax }}{24}{figure.caption.15}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Fase de cria\IeC {\c c}\IeC {\~a}o do \textit {Sprint Backlog} (Adaptada de \cite {rubin2012essential}).\relax }}{25}{figure.caption.16}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Tela inicial do aplicativo Al\IeC {\^o} Pequi (Adaptada de \cite {alo_pequi}).\relax }}{28}{figure.caption.17}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Tela inicial do aplicativo Colab (Adaptada de \cite {colab}).\relax }}{29}{figure.caption.18}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Tela inicial do aplicativo Vigilante App (Adaptada de \cite {vigilante_app}).\relax }}{30}{figure.caption.19}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Fluxograma de Desenvolvimento ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{37}{figure.caption.23}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Ambiente de Desenvolvimento ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{39}{figure.caption.24}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Ambiente de Produ\IeC {\c c}\IeC {\~a}o ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{40}{figure.caption.25}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Itens do Ciclo de Vida de Servi\IeC {\c c}os \acrshort {itil} v3 (Adaptada de \cite {introductoryoverviewofitil}).\relax }}{41}{figure.caption.26}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Quadro de atividades Kanban.\relax }}{44}{figure.caption.27}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Distribui\IeC {\c c}\IeC {\~a}o dos n\IeC {\'\i }veis de usabilidade do \textit {System Usability Scale} (SUS) (Adaptado de \cite {bangor2009determining}).\relax }}{46}{figure.caption.28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Diagrama de Caso de Uso Geral sistema ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{47}{figure.caption.30}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Diagrama de classes do sistema ``\acrshort {uft} Servi\IeC {\c c}os'' Android.\relax }}{49}{figure.caption.31}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Diagrama de classes do sistema ``\acrshort {uft} Servi\IeC {\c c}os'' web administrativo.\relax }}{50}{figure.caption.32}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Diagramas de Atividade cria\IeC {\c c}\IeC {\~a}o de usu\IeC {\'a}rio e autentica\IeC {\c c}\IeC {\~a}o e Processo de Abertura de Chamado.\relax }}{52}{figure.caption.33}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Diagramas de Implanta\IeC {\c c}\IeC {\~a}o sistema ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{53}{figure.caption.34}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tela inicial e de login aplicativo ``\acrshort {uft} Servi\IeC {\c c}os'' \textit {Smartphone}.\relax }}{58}{figure.caption.35}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Tela de formul\IeC {\'a}rio de abertura do chamado e de visualiza\IeC {\c c}\IeC {\~a}o dos detalhes do chamado enviado pelo \textit {Smartphone}.\relax }}{59}{figure.caption.36}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Tela de Login aplicativo ``\acrshort {uft} Servi\IeC {\c c}os'' Tablet.\relax }}{59}{figure.caption.37}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Tela inicial aplicativo ``\acrshort {uft} Servi\IeC {\c c}os'' Tablet.\relax }}{60}{figure.caption.38}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Tela inicial do Sistema \textit {web} administrativo ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{60}{figure.caption.39}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Caixa de dialogo atendimento do chamado Sistema \textit {web} administrativo ``\acrshort {uft} Servi\IeC {\c c}os''.\relax }}{61}{figure.caption.40}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Gr\IeC {\'a}fico do tempo m\IeC {\'e}dio de execu\IeC {\c c}\IeC {\~a}o das tarefas realizadas pelos volunt\IeC {\'a}rios.\relax }}{62}{figure.caption.41}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Gr\IeC {\'a}fico de Pizza do tempo m\IeC {\'e}dio de execu\IeC {\c c}\IeC {\~a}o das tarefas realizadas pelos volunt\IeC {\'a}rios.\relax }}{63}{figure.caption.42}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Resultado teste de desempenho Login API REST.\relax }}{64}{figure.caption.44}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Teste de Caixa Branca utilizando o Selenium.\relax }}{65}{figure.caption.45}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces \textit {Software} de monitoramento Netdata.\relax }}{67}{figure.caption.46}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Gr\IeC {\'a}ficos gerados pelo Google \textit {Analytics}.\relax }}{67}{figure.caption.47}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

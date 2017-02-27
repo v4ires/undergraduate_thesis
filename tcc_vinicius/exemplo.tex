@@ -1,0 +1,167 @@
+    % ----------------------------------------------------------------------------------------------------- %
+% Arquivo LaTeX de exemplo de TCC a ser apresentados à Ciência da Computação da UFT - Palmas
+% 
+% Verssão 2: 20 Fev 2016
+%
+% Criado por: Tiago Almeida
+% Revisado por: 
+%  
+% ----------------------------------------------------------------------------------------------------- %
+
+\documentclass[tcc2]{uftex}	
+\usepackage{float}
+\usepackage{pdfpages}
+\usepackage[acronym]{glossaries}
+\makeglossaries
+
+\usepackage[abnt-emphasize=bf]{abntex2cite}
+\citebrackets[]
+
+\renewcommand*{\backrefalt}[4]{}%
+
+\begin{document}
+  \title{Implantação da ferramenta para manutenção de serviços ``UFT Serviços'' baseado nas diretrizes do ITIL v3}
+  \foreigntitle{Thesis Title}
+  \author{Vinícius}{Aires Barros}
+  \advisor{Prof.}{Ary}{Henrique Morais de Oliveira}{D.Sc.}
+
+  \examiner{Prof.}{Ary Henrique Morais de Oliveira}{D.Sc.}
+  \examiner{Prof.}{Rafael Lima de Carvalho}{D.Sc.}
+  \examiner{Prof.}{Thiago Magalhães de Brito Rodrigues}{M.Sc.}
+  \department{CC}
+  \date{07}{2016}
+
+  \keyword{ITIL v3}
+  \keyword{gerenciamento de serviços de TI}
+  \keyword{UFT Serviços}
+  \keyword{Univsersidade Federal do Tocantins}
+
+  \foreignkeyword{ITIL v3}
+  \foreignkeyword{IT service management}
+  \foreignkeyword{UFT Serviços}
+  \foreignkeyword{Federal University of Tocantins}
+
+  \maketitle
+  
+  \frontmatter
+  
+  \includepdf[pages=-]{ficha.pdf}
+  
+  \includepdf[pages=-]{ata_tccfinal.pdf}
+  
+  \dedication{Dedico este trabalho em memória ao meu avô Camilo Ayres de Santana e meu tio Adelson Aires Santana.}
+
+  \begin{acknowledgement}
+
+  Primeiramente agradeço a Deus por me permitir vencer mais essa etapa na minha vida, saiba que sem sua imensa misericórdia e seus ensinamentos através da sua palavra eu não conseguiria alcançar os meus objetivos. Agradeço os meus familiares, em especial a minha mãe Sebastiana Aires Santana, pelo apoio dado desde o início da minha jornada nos estudos. Agradeço também aos meus amigos, acima de tudo irmãos que fiz durante minha graduação, em especial ao colega Thaylon Guedes Santos por sua parceria em diversos momentos da graduação, saiba que grande parte do conhecimento adquirido durante a faculdade foi construído através do compartilhamento de informações com você. Agradeço às minhas amigas Adrianne Alves e Valéria Martins por tirarem um pouco do seu tempo para me ajudarem com a revisão da escrita deste trabalho, fornecendo diversas dicas que contribuíram para a finalização e entrega desta monografia. Faço um agradecimento em especial a todos os professores que participaram da minha vida como acadêmico, saibam que sem os seus ensinamentos e orientações eu não conseguiria chegar aonde eu estou. Faço um agradecimento em especial ao professor Tiago Almeida que é um dos professores mais pró-ativos que conheci na graduação, agradeço por sua contribuição através da criação de um modelo padronizado de monografia e por ser um dos poucos professores que se coloca no lugar dos alunos, sendo sempre muito prestativo e atencioso. Agradeço ao meu orientador professor Dr. Ary Henrique Morais de Oliveira por sua orientação e ensinamentos durante a construção desta monografia, saiba que sem sua presença e seus conselhos eu não conseguiria atingir os objetivos deste trabalho. Por fim, dedico esta monografia em memória do meu avô Camilo Ayres de Santana, pessoa que tive como verdadeiro pai durante toda minha infância e início da adolescência, saiba o senhor que sem seus exemplos de luta e perseverança junto a minha a mãe eu não conquistaria mais essa vitória.
+
+  \end{acknowledgement}
+
+  \begin{abstract}
+  
+  \noindent Este trabalho apresenta os conceitos utilizados para implantação do sistema ``UFT Serviços'' que tem como propósito servir como ferramenta para o gerenciamento de ordem de serviços para a Prefeitura e Direção do Campus de Palmas da Universidade Federal do Tocantins. O ``UFT Serviços'' possui as diretrizes de gerenciamento de serviços de TI da ITIL v3 como ferramenta de apoio às etapas de implantação dos serviços oferecidos pelo \textit{software}. Sua principal motivação é possibilitar uma melhoria na comunicação sobre os problemas de infraestrutura do campus universitário entre a comunidade acadêmica (docente, discente e técnico administrativo) e os setores responsáveis por encaminhamentos das solicitações de reparo. A utilização do ITIL v3, como base para gestão dos serviços oferecidos pelo sistema visa sobretudo proporcionar um melhor controle sobre os problemas relacionados ao desenho e transição dos serviços oferecidos pelo sistema. \\
+
+  \end{abstract}
+
+  \begin{foreignabstract}
+
+  \noindent This work presents the concepts used to implement the ``UFT Serviços'' system. This system is intended to serve as a tool to manage service orders for both the prefecture and campus administration of Palmas in the Federal University of Tocantins. The ``UFT Serviços''  has ITIL v3 guidelines for managing IT services as a support tool to the implementation stages of the services offered by the software. Its main motivation is to enable a communication improvement about the university campus infrastructure problems between academic community (faculty, students and administrative personnel) and the departments responsible for forwarding the repair request. The use of ITIL v3 as a basis for management of the services offered by the system aims above all to provide a better handling of the problems related to the design and transition of the services offered by the system.\\
+  
+  \end{foreignabstract}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Lista de Abreviaturas
+% ----------------------------------------------------------------------------------------------------- %
+
+\input{misc/cap-abreviaturas}
+
+
+% ----------------------------------------------------------------------------------------------------- %
+% Lista de Figuras
+% ----------------------------------------------------------------------------------------------------- %
+
+\listoffigures
+
+% ----------------------------------------------------------------------------------------------------- %
+% Lista de Tabelas
+% ----------------------------------------------------------------------------------------------------- %
+
+\listoftables
+
+% ----------------------------------------------------------------------------------------------------- %
+% Sumário
+% ----------------------------------------------------------------------------------------------------- %
+
+\tableofcontents 
+
+\mainmatter
+\onehalfspacing
+
+% ----------------------------------------------------------------------------------------------------- %
+% Introdução
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-introducao}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Fundamentação
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-fundamentacao}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Estado da Arte
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-estadodaarte}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Cronograma
+% ----------------------------------------------------------------------------------------------------- %
+
+%\include{misc/cap-cronograma}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Metodologia
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-metodologia}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Desenvolvimento
+% ----------------------------------------------------------------------------------------------------- %
+
+%\include{misc/cap-desenvolvimento}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Resultados
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-resultados}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Conclusão
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-conclusao}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Apêndice
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-apendice}
+
+% ----------------------------------------------------------------------------------------------------- %
+% Anexos
+% ----------------------------------------------------------------------------------------------------- %
+
+\include{misc/cap-anexos}
+
+\backmatter 
+\singlespacing   % espaçamento simples
+% ----------------------------------------------------------------------------------------------------- %
+% Bibliografia
+% ----------------------------------------------------------------------------------------------------- %
+%\bibliographystyle{abntex2-num} 
+\bibliography{exemplo}
+\end{document}

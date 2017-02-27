@@ -1,0 +1,1290 @@
+\ifglsentryexists{itil}{}%
+{%
+\gls@defglossaryentry{itil}%
+{%
+name={ITIL},%
+sort={ITIL},%
+type={acronym},%
+first={Information Technology Infrastructure Library\glsspace (ITIL)},%
+firstplural={Information Technology Infrastructure Library\acrpluralsuffix \glsspace (ITIL\acrpluralsuffix )},%
+text={ITIL},%
+plural={ITIL\acrpluralsuffix },%
+description={Information Technology Infrastructure Library},%
+descriptionplural={Information Technology Infrastructure Library\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Technology Infrastructure Library},%
+longplural={Information Technology Infrastructure Librarys},%
+short={ITIL},%
+shortplural={ITILs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fgveasp}{}%
+{%
+\gls@defglossaryentry{fgveasp}%
+{%
+name={FGV-EAESP},%
+sort={FGV-EAESP},%
+type={acronym},%
+first={Funda\IeC {\c c}\IeC {\~a}o Get\IeC {\'u}lio Vargas - Escola de Administra\IeC {\c c}\IeC {\~a}o de Empresas de S\IeC {\~a}o Paulo\glsspace (FGV-EAESP)},%
+firstplural={Fundação Getúlio Vargas - Escola de Administração de Empresas de São Paulo\acrpluralsuffix \glsspace (FGV-EAESP\acrpluralsuffix )},%
+text={FGV-EAESP},%
+plural={FGV-EAESP\acrpluralsuffix },%
+description={Fundação Getúlio Vargas - Escola de Administração de Empresas de São Paulo},%
+descriptionplural={Fundação Getúlio Vargas - Escola de Administração de Empresas de São Paulo\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Funda\IeC {\c c}\IeC {\~a}o Get\IeC {\'u}lio Vargas - Escola de Administra\IeC {\c c}\IeC {\~a}o de Empresas de S\IeC {\~a}o Paulo},%
+longplural={Funda\IeC {\c c}\IeC {\~a}o Get\IeC {\'u}lio Vargas - Escola de Administra\IeC {\c c}\IeC {\~a}o de Empresas de S\IeC {\~a}o Paulos},%
+short={FGV-EAESP},%
+shortplural={FGV-EAESPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{itsm}{}%
+{%
+\gls@defglossaryentry{itsm}%
+{%
+name={ITSM},%
+sort={ITSM},%
+type={acronym},%
+first={Gerenciamento de Servi\IeC {\c c}os de TI\glsspace (ITSM)},%
+firstplural={Gerenciamento de Serviços de TI\acrpluralsuffix \glsspace (ITSM\acrpluralsuffix )},%
+text={ITSM},%
+plural={ITSM\acrpluralsuffix },%
+description={Gerenciamento de Serviços de TI},%
+descriptionplural={Gerenciamento de Serviços de TI\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Gerenciamento de Servi\IeC {\c c}os de TI},%
+longplural={Gerenciamento de Servi\IeC {\c c}os de TIs},%
+short={ITSM},%
+shortplural={ITSMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ti}{}%
+{%
+\gls@defglossaryentry{ti}%
+{%
+name={TI},%
+sort={TI},%
+type={acronym},%
+first={Tecnologia da Informa\IeC {\c c}\IeC {\~a}o\glsspace (TI)},%
+firstplural={Tecnologia da Informação\acrpluralsuffix \glsspace (TI\acrpluralsuffix )},%
+text={TI},%
+plural={TI\acrpluralsuffix },%
+description={Tecnologia da Informação},%
+descriptionplural={Tecnologia da Informação\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Tecnologia da Informa\IeC {\c c}\IeC {\~a}o},%
+longplural={Tecnologia da Informa\IeC {\c c}\IeC {\~a}os},%
+short={TI},%
+shortplural={TIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cobit}{}%
+{%
+\gls@defglossaryentry{cobit}%
+{%
+name={COBIT},%
+sort={COBIT},%
+type={acronym},%
+first={Control Objectives for Information and related Technology\glsspace (COBIT)},%
+firstplural={Control Objectives for Information and related Technology\acrpluralsuffix \glsspace (COBIT\acrpluralsuffix )},%
+text={COBIT},%
+plural={COBIT\acrpluralsuffix },%
+description={Control Objectives for Information and related Technology},%
+descriptionplural={Control Objectives for Information and related Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Control Objectives for Information and related Technology},%
+longplural={Control Objectives for Information and related Technologys},%
+short={COBIT},%
+shortplural={COBITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uft}{}%
+{%
+\gls@defglossaryentry{uft}%
+{%
+name={UFT},%
+sort={UFT},%
+type={acronym},%
+first={Universidade Federal do Tocantins\glsspace (UFT)},%
+firstplural={Universidade Federal do Tocantins\acrpluralsuffix \glsspace (UFT\acrpluralsuffix )},%
+text={UFT},%
+plural={UFT\acrpluralsuffix },%
+description={Universidade Federal do Tocantins},%
+descriptionplural={Universidade Federal do Tocantins\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Universidade Federal do Tocantins},%
+longplural={Universidade Federal do Tocantinss},%
+short={UFT},%
+shortplural={UFTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mandi}{}%
+{%
+\gls@defglossaryentry{mandi}%
+{%
+name={Mandi},%
+sort={Mandi},%
+type={acronym},%
+first={Monitoramento e An\IeC {\'a}lise de Incidentes\glsspace (Mandi)},%
+firstplural={Monitoramento e Análise de Incidentes\acrpluralsuffix \glsspace (Mandi\acrpluralsuffix )},%
+text={Mandi},%
+plural={Mandi\acrpluralsuffix },%
+description={Monitoramento e Análise de Incidentes},%
+descriptionplural={Monitoramento e Análise de Incidentes\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Monitoramento e An\IeC {\'a}lise de Incidentes},%
+longplural={Monitoramento e An\IeC {\'a}lise de Incidentess},%
+short={Mandi},%
+shortplural={Mandis},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hp}{}%
+{%
+\gls@defglossaryentry{hp}%
+{%
+name={HP},%
+sort={HP},%
+type={acronym},%
+first={Hewlett-Packard\glsspace (HP)},%
+firstplural={Hewlett-Packard\acrpluralsuffix \glsspace (HP\acrpluralsuffix )},%
+text={HP},%
+plural={HP\acrpluralsuffix },%
+description={Hewlett-Packard},%
+descriptionplural={Hewlett-Packard\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hewlett-Packard},%
+longplural={Hewlett-Packards},%
+short={HP},%
+shortplural={HPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ibm}{}%
+{%
+\gls@defglossaryentry{ibm}%
+{%
+name={IBM},%
+sort={IBM},%
+type={acronym},%
+first={International Business Machines Corporation\glsspace (IBM)},%
+firstplural={International Business Machines Corporation\acrpluralsuffix \glsspace (IBM\acrpluralsuffix )},%
+text={IBM},%
+plural={IBM\acrpluralsuffix },%
+description={International Business Machines Corporation},%
+descriptionplural={International Business Machines Corporation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Business Machines Corporation},%
+longplural={International Business Machines Corporations},%
+short={IBM},%
+shortplural={IBMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{idc}{}%
+{%
+\gls@defglossaryentry{idc}%
+{%
+name={IDC},%
+sort={IDC},%
+type={acronym},%
+first={International Data Corporation\glsspace (IDC)},%
+firstplural={International Data Corporation\acrpluralsuffix \glsspace (IDC\acrpluralsuffix )},%
+text={IDC},%
+plural={IDC\acrpluralsuffix },%
+description={International Data Corporation},%
+descriptionplural={International Data Corporation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Data Corporation},%
+longplural={International Data Corporations},%
+short={IDC},%
+shortplural={IDCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ios}{}%
+{%
+\gls@defglossaryentry{ios}%
+{%
+name={IOS},%
+sort={IOS},%
+type={acronym},%
+first={Iphone OS\glsspace (IOS)},%
+firstplural={Iphone OS\acrpluralsuffix \glsspace (IOS\acrpluralsuffix )},%
+text={IOS},%
+plural={IOS\acrpluralsuffix },%
+description={Iphone OS},%
+descriptionplural={Iphone OS\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Iphone OS},%
+longplural={Iphone OSs},%
+short={IOS},%
+shortplural={IOSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{html}{}%
+{%
+\gls@defglossaryentry{html}%
+{%
+name={HTML},%
+sort={HTML},%
+type={acronym},%
+first={HyperText Markup Language\glsspace (HTML)},%
+firstplural={HyperText Markup Language\acrpluralsuffix \glsspace (HTML\acrpluralsuffix )},%
+text={HTML},%
+plural={HTML\acrpluralsuffix },%
+description={HyperText Markup Language},%
+descriptionplural={HyperText Markup Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Markup Language},%
+longplural={HyperText Markup Languages},%
+short={HTML},%
+shortplural={HTMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{css}{}%
+{%
+\gls@defglossaryentry{css}%
+{%
+name={CSS},%
+sort={CSS},%
+type={acronym},%
+first={Cascading Style Sheets\glsspace (CSS)},%
+firstplural={Cascading Style Sheets\acrpluralsuffix \glsspace (CSS\acrpluralsuffix )},%
+text={CSS},%
+plural={CSS\acrpluralsuffix },%
+description={Cascading Style Sheets},%
+descriptionplural={Cascading Style Sheets\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cascading Style Sheets},%
+longplural={Cascading Style Sheetss},%
+short={CSS},%
+shortplural={CSSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cobit}{}%
+{%
+\gls@defglossaryentry{cobit}%
+{%
+name={COBIT},%
+sort={COBIT},%
+type={acronym},%
+first={Control Objectives for Information and related Technology\glsspace (COBIT)},%
+firstplural={Control Objectives for Information and related Technology\acrpluralsuffix \glsspace (COBIT\acrpluralsuffix )},%
+text={COBIT},%
+plural={COBIT\acrpluralsuffix },%
+description={Control Objectives for Information and related Technology},%
+descriptionplural={Control Objectives for Information and related Technology\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Control Objectives for Information and related Technology},%
+longplural={Control Objectives for Information and related Technologys},%
+short={COBIT},%
+shortplural={COBITs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cmmi}{}%
+{%
+\gls@defglossaryentry{cmmi}%
+{%
+name={CMMI},%
+sort={CMMI},%
+type={acronym},%
+first={Capability Maturity Model Integration\glsspace (CMMI)},%
+firstplural={Capability Maturity Model Integration\acrpluralsuffix \glsspace (CMMI\acrpluralsuffix )},%
+text={CMMI},%
+plural={CMMI\acrpluralsuffix },%
+description={Capability Maturity Model Integration},%
+descriptionplural={Capability Maturity Model Integration\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Capability Maturity Model Integration},%
+longplural={Capability Maturity Model Integrations},%
+short={CMMI},%
+shortplural={CMMIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{iso}{}%
+{%
+\gls@defglossaryentry{iso}%
+{%
+name={ISO},%
+sort={ISO},%
+type={acronym},%
+first={International Organization for Standardization\glsspace (ISO)},%
+firstplural={International Organization for Standardization\acrpluralsuffix \glsspace (ISO\acrpluralsuffix )},%
+text={ISO},%
+plural={ISO\acrpluralsuffix },%
+description={International Organization for Standardization},%
+descriptionplural={International Organization for Standardization\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Organization for Standardization},%
+longplural={International Organization for Standardizations},%
+short={ISO},%
+shortplural={ISOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rh}{}%
+{%
+\gls@defglossaryentry{rh}%
+{%
+name={RH},%
+sort={RH},%
+type={acronym},%
+first={Recursos Humanos\glsspace (RH)},%
+firstplural={Recursos Humanos\acrpluralsuffix \glsspace (RH\acrpluralsuffix )},%
+text={RH},%
+plural={RH\acrpluralsuffix },%
+description={Recursos Humanos},%
+descriptionplural={Recursos Humanos\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Recursos Humanos},%
+longplural={Recursos Humanoss},%
+short={RH},%
+shortplural={RHs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{jsf}{}%
+{%
+\gls@defglossaryentry{jsf}%
+{%
+name={JSF},%
+sort={JSF},%
+type={acronym},%
+first={Java Server Faces\glsspace (JSF)},%
+firstplural={Java Server Faces\acrpluralsuffix \glsspace (JSF\acrpluralsuffix )},%
+text={JSF},%
+plural={JSF\acrpluralsuffix },%
+description={Java Server Faces},%
+descriptionplural={Java Server Faces\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Java Server Faces},%
+longplural={Java Server Facess},%
+short={JSF},%
+shortplural={JSFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ogc}{}%
+{%
+\gls@defglossaryentry{ogc}%
+{%
+name={OGC},%
+sort={OGC},%
+type={acronym},%
+first={Office of Goverment Commerce\glsspace (OGC)},%
+firstplural={Office of Goverment Commerce\acrpluralsuffix \glsspace (OGC\acrpluralsuffix )},%
+text={OGC},%
+plural={OGC\acrpluralsuffix },%
+description={Office of Goverment Commerce},%
+descriptionplural={Office of Goverment Commerce\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Office of Goverment Commerce},%
+longplural={Office of Goverment Commerces},%
+short={OGC},%
+shortplural={OGCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{itsm}{}%
+{%
+\gls@defglossaryentry{itsm}%
+{%
+name={ITSM},%
+sort={ITSM},%
+type={acronym},%
+first={Gerenciamento de Servi\IeC {\c c}os de TI\glsspace (ITSM)},%
+firstplural={Gerenciamento de Serviços de TI\acrpluralsuffix \glsspace (ITSM\acrpluralsuffix )},%
+text={ITSM},%
+plural={ITSM\acrpluralsuffix },%
+description={Gerenciamento de Serviços de TI},%
+descriptionplural={Gerenciamento de Serviços de TI\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Gerenciamento de Servi\IeC {\c c}os de TI},%
+longplural={Gerenciamento de Servi\IeC {\c c}os de TIs},%
+short={ITSM},%
+shortplural={ITSMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{hsmo}{}%
+{%
+\gls@defglossaryentry{hsmo}%
+{%
+name={HSMO},%
+sort={HSMO},%
+type={acronym},%
+first={Her Majesty\IeC {\textquoteright }s Stationery Office\glsspace (HSMO)},%
+firstplural={Her Majesty’s Stationery Office\acrpluralsuffix \glsspace (HSMO\acrpluralsuffix )},%
+text={HSMO},%
+plural={HSMO\acrpluralsuffix },%
+description={Her Majesty’s Stationery Office},%
+descriptionplural={Her Majesty’s Stationery Office\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Her Majesty\IeC {\textquoteright }s Stationery Office},%
+longplural={Her Majesty\IeC {\textquoteright }s Stationery Offices},%
+short={HSMO},%
+shortplural={HSMOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ccta}{}%
+{%
+\gls@defglossaryentry{ccta}%
+{%
+name={CCTA},%
+sort={CCTA},%
+type={acronym},%
+first={Ag\IeC {\^e}ncia Central de Comunica\IeC {\c c}\IeC {\~a}o e Telecomunica\IeC {\c c}\IeC {\~a}o\glsspace (CCTA)},%
+firstplural={Agência Central de Comunicação e Telecomunicação\acrpluralsuffix \glsspace (CCTA\acrpluralsuffix )},%
+text={CCTA},%
+plural={CCTA\acrpluralsuffix },%
+description={Agência Central de Comunicação e Telecomunicação},%
+descriptionplural={Agência Central de Comunicação e Telecomunicação\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Ag\IeC {\^e}ncia Central de Comunica\IeC {\c c}\IeC {\~a}o e Telecomunica\IeC {\c c}\IeC {\~a}o},%
+longplural={Ag\IeC {\^e}ncia Central de Comunica\IeC {\c c}\IeC {\~a}o e Telecomunica\IeC {\c c}\IeC {\~a}os},%
+short={CCTA},%
+shortplural={CCTAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sla}{}%
+{%
+\gls@defglossaryentry{sla}%
+{%
+name={SLA},%
+sort={SLA},%
+type={acronym},%
+first={Service Level Agreement\glsspace (SLA)},%
+firstplural={Service Level Agreement\acrpluralsuffix \glsspace (SLA\acrpluralsuffix )},%
+text={SLA},%
+plural={SLA\acrpluralsuffix },%
+description={Service Level Agreement},%
+descriptionplural={Service Level Agreement\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Service Level Agreement},%
+longplural={Service Level Agreements},%
+short={SLA},%
+shortplural={SLAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{slm_itil}{}%
+{%
+\gls@defglossaryentry{slm_itil}%
+{%
+name={SLM},%
+sort={SLM},%
+type={acronym},%
+first={Service Level Management\glsspace (SLM)},%
+firstplural={Service Level Management\acrpluralsuffix \glsspace (SLM\acrpluralsuffix )},%
+text={SLM},%
+plural={SLM\acrpluralsuffix },%
+description={Service Level Management},%
+descriptionplural={Service Level Management\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Service Level Management},%
+longplural={Service Level Managements},%
+short={SLM},%
+shortplural={SLMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ieee}{}%
+{%
+\gls@defglossaryentry{ieee}%
+{%
+name={IEEE},%
+sort={IEEE},%
+type={acronym},%
+first={Institute of Electrical and Electronics Engineers\glsspace (IEEE)},%
+firstplural={Institute of Electrical and Electronics Engineers\acrpluralsuffix \glsspace (IEEE\acrpluralsuffix )},%
+text={IEEE},%
+plural={IEEE\acrpluralsuffix },%
+description={Institute of Electrical and Electronics Engineers},%
+descriptionplural={Institute of Electrical and Electronics Engineers\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Institute of Electrical and Electronics Engineers},%
+longplural={Institute of Electrical and Electronics Engineerss},%
+short={IEEE},%
+shortplural={IEEEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{srs}{}%
+{%
+\gls@defglossaryentry{srs}%
+{%
+name={SRS},%
+sort={SRS},%
+type={acronym},%
+first={Software Requirements Specification Template\glsspace (SRS)},%
+firstplural={Software Requirements Specification Template\acrpluralsuffix \glsspace (SRS\acrpluralsuffix )},%
+text={SRS},%
+plural={SRS\acrpluralsuffix },%
+description={Software Requirements Specification Template},%
+descriptionplural={Software Requirements Specification Template\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Software Requirements Specification Template},%
+longplural={Software Requirements Specification Templates},%
+short={SRS},%
+shortplural={SRSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ism}{}%
+{%
+\gls@defglossaryentry{ism}%
+{%
+name={ISM},%
+sort={ISM},%
+type={acronym},%
+first={Information Security Management\glsspace (ISM)},%
+firstplural={Information Security Management\acrpluralsuffix \glsspace (ISM\acrpluralsuffix )},%
+text={ISM},%
+plural={ISM\acrpluralsuffix },%
+description={Information Security Management},%
+descriptionplural={Information Security Management\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Security Management},%
+longplural={Information Security Managements},%
+short={ISM},%
+shortplural={ISMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gps}{}%
+{%
+\gls@defglossaryentry{gps}%
+{%
+name={GPS},%
+sort={GPS},%
+type={acronym},%
+first={Global Positioning System\glsspace (GPS)},%
+firstplural={Global Positioning System\acrpluralsuffix \glsspace (GPS\acrpluralsuffix )},%
+text={GPS},%
+plural={GPS\acrpluralsuffix },%
+description={Global Positioning System},%
+descriptionplural={Global Positioning System\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Global Positioning System},%
+longplural={Global Positioning Systems},%
+short={GPS},%
+shortplural={GPSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{mof}{}%
+{%
+\gls@defglossaryentry{mof}%
+{%
+name={MOF},%
+sort={MOF},%
+type={acronym},%
+first={Microsoft Framework\glsspace (MOF)},%
+firstplural={Microsoft Framework\acrpluralsuffix \glsspace (MOF\acrpluralsuffix )},%
+text={MOF},%
+plural={MOF\acrpluralsuffix },%
+description={Microsoft Framework},%
+descriptionplural={Microsoft Framework\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Microsoft Framework},%
+longplural={Microsoft Frameworks},%
+short={MOF},%
+shortplural={MOFs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{malssi}{}%
+{%
+\gls@defglossaryentry{malssi}%
+{%
+name={MalSSI},%
+sort={MalSSI},%
+type={acronym},%
+first={Managing IT Services and Service Implementation\glsspace (MalSSI)},%
+firstplural={Managing IT Services and Service Implementation\acrpluralsuffix \glsspace (MalSSI\acrpluralsuffix )},%
+text={MalSSI},%
+plural={MalSSI\acrpluralsuffix },%
+description={Managing IT Services and Service Implementation},%
+descriptionplural={Managing IT Services and Service Implementation\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Managing IT Services and Service Implementation},%
+longplural={Managing IT Services and Service Implementations},%
+short={MalSSI},%
+shortplural={MalSSIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{uml}{}%
+{%
+\gls@defglossaryentry{uml}%
+{%
+name={UML},%
+sort={UML},%
+type={acronym},%
+first={Unified Modeling Language\glsspace (UML)},%
+firstplural={Unified Modeling Language\acrpluralsuffix \glsspace (UML\acrpluralsuffix )},%
+text={UML},%
+plural={UML\acrpluralsuffix },%
+description={Unified Modeling Language},%
+descriptionplural={Unified Modeling Language\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Unified Modeling Language},%
+longplural={Unified Modeling Languages},%
+short={UML},%
+shortplural={UMLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sus}{}%
+{%
+\gls@defglossaryentry{sus}%
+{%
+name={SUS},%
+sort={SUS},%
+type={acronym},%
+first={System Usability Scale\glsspace (SUS)},%
+firstplural={System Usability Scale\acrpluralsuffix \glsspace (SUS\acrpluralsuffix )},%
+text={SUS},%
+plural={SUS\acrpluralsuffix },%
+description={System Usability Scale},%
+descriptionplural={System Usability Scale\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={System Usability Scale},%
+longplural={System Usability Scales},%
+short={SUS},%
+shortplural={SUSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{sdk}{}%
+{%
+\gls@defglossaryentry{sdk}%
+{%
+name={SDK},%
+sort={SDK},%
+type={acronym},%
+first={Software development Kit\glsspace (SDK)},%
+firstplural={Software development Kit\acrpluralsuffix \glsspace (SDK\acrpluralsuffix )},%
+text={SDK},%
+plural={SDK\acrpluralsuffix },%
+description={Software development Kit},%
+descriptionplural={Software development Kit\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Software development Kit},%
+longplural={Software development Kits},%
+short={SDK},%
+shortplural={SDKs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ide}{}%
+{%
+\gls@defglossaryentry{ide}%
+{%
+name={IDE},%
+sort={IDE},%
+type={acronym},%
+first={Integrated Development Environment\glsspace (IDE)},%
+firstplural={Integrated Development Environment\acrpluralsuffix \glsspace (IDE\acrpluralsuffix )},%
+text={IDE},%
+plural={IDE\acrpluralsuffix },%
+description={Integrated Development Environment},%
+descriptionplural={Integrated Development Environment\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Integrated Development Environment},%
+longplural={Integrated Development Environments},%
+short={IDE},%
+shortplural={IDEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{http}{}%
+{%
+\gls@defglossaryentry{http}%
+{%
+name={HTTP},%
+sort={HTTP},%
+type={acronym},%
+first={Hypertext Transfer Protocol\glsspace (HTTP)},%
+firstplural={Hypertext Transfer Protocol\acrpluralsuffix \glsspace (HTTP\acrpluralsuffix )},%
+text={HTTP},%
+plural={HTTP\acrpluralsuffix },%
+description={Hypertext Transfer Protocol},%
+descriptionplural={Hypertext Transfer Protocol\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Hypertext Transfer Protocol},%
+longplural={Hypertext Transfer Protocols},%
+short={HTTP},%
+shortplural={HTTPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{qrcode}{}%
+{%
+\gls@defglossaryentry{qrcode}%
+{%
+name={QR Code},%
+sort={QR Code},%
+type={acronym},%
+first={Quick Response Code\glsspace (QR Code)},%
+firstplural={Quick Response Code\acrpluralsuffix \glsspace (QR Code\acrpluralsuffix )},%
+text={QR Code},%
+plural={QR Code\acrpluralsuffix },%
+description={Quick Response Code},%
+descriptionplural={Quick Response Code\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Quick Response Code},%
+longplural={Quick Response Codes},%
+short={QR Code},%
+shortplural={QR Codes},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{jdbc}{}%
+{%
+\gls@defglossaryentry{jdbc}%
+{%
+name={JDBC},%
+sort={JDBC},%
+type={acronym},%
+first={Java Database Connectivity\glsspace (JDBC)},%
+firstplural={Java Database Connectivity\acrpluralsuffix \glsspace (JDBC\acrpluralsuffix )},%
+text={JDBC},%
+plural={JDBC\acrpluralsuffix },%
+description={Java Database Connectivity},%
+descriptionplural={Java Database Connectivity\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Java Database Connectivity},%
+longplural={Java Database Connectivitys},%
+short={JDBC},%
+shortplural={JDBCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ejb}{}%
+{%
+\gls@defglossaryentry{ejb}%
+{%
+name={EJB},%
+sort={EJB},%
+type={acronym},%
+first={Enterprise Java Beans\glsspace (EJB)},%
+firstplural={Enterprise Java Beans\acrpluralsuffix \glsspace (EJB\acrpluralsuffix )},%
+text={EJB},%
+plural={EJB\acrpluralsuffix },%
+description={Enterprise Java Beans},%
+descriptionplural={Enterprise Java Beans\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Enterprise Java Beans},%
+longplural={Enterprise Java Beanss},%
+short={EJB},%
+shortplural={EJBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{rest}{}%
+{%
+\gls@defglossaryentry{rest}%
+{%
+name={REST},%
+sort={REST},%
+type={acronym},%
+first={Representational State Transfer\glsspace (REST)},%
+firstplural={Representational State Transfer\acrpluralsuffix \glsspace (REST\acrpluralsuffix )},%
+text={REST},%
+plural={REST\acrpluralsuffix },%
+description={Representational State Transfer},%
+descriptionplural={Representational State Transfer\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Representational State Transfer},%
+longplural={Representational State Transfers},%
+short={REST},%
+shortplural={RESTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{javaee}{}%
+{%
+\gls@defglossaryentry{javaee}%
+{%
+name={Java EE},%
+sort={Java EE},%
+type={acronym},%
+first={Java Plataform Enterprise Edition\glsspace (Java EE)},%
+firstplural={Java Plataform Enterprise Edition\acrpluralsuffix \glsspace (Java EE\acrpluralsuffix )},%
+text={Java EE},%
+plural={Java EE\acrpluralsuffix },%
+description={Java Plataform Enterprise Edition},%
+descriptionplural={Java Plataform Enterprise Edition\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Java Plataform Enterprise Edition},%
+longplural={Java Plataform Enterprise Editions},%
+short={Java EE},%
+shortplural={Java EEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{jpa}{}%
+{%
+\gls@defglossaryentry{jpa}%
+{%
+name={JPA},%
+sort={JPA},%
+type={acronym},%
+first={Java Persistence API\glsspace (JPA)},%
+firstplural={Java Persistence API\acrpluralsuffix \glsspace (JPA\acrpluralsuffix )},%
+text={JPA},%
+plural={JPA\acrpluralsuffix },%
+description={Java Persistence API},%
+descriptionplural={Java Persistence API\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Java Persistence API},%
+longplural={Java Persistence APIs},%
+short={JPA},%
+shortplural={JPAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{poo}{}%
+{%
+\gls@defglossaryentry{poo}%
+{%
+name={POO},%
+sort={POO},%
+type={acronym},%
+first={Programa\IeC {\c c}\IeC {\~a}o Orientada a Objetos\glsspace (POO)},%
+firstplural={Programação Orientada a Objetos\acrpluralsuffix \glsspace (POO\acrpluralsuffix )},%
+text={POO},%
+plural={POO\acrpluralsuffix },%
+description={Programação Orientada a Objetos},%
+descriptionplural={Programação Orientada a Objetos\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Programa\IeC {\c c}\IeC {\~a}o Orientada a Objetos},%
+longplural={Programa\IeC {\c c}\IeC {\~a}o Orientada a Objetoss},%
+short={POO},%
+shortplural={POOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pojo}{}%
+{%
+\gls@defglossaryentry{pojo}%
+{%
+name={POJO},%
+sort={POJO},%
+type={acronym},%
+first={Plain Old Java Object\glsspace (POJO)},%
+firstplural={Plain Old Java Object\acrpluralsuffix \glsspace (POJO\acrpluralsuffix )},%
+text={POJO},%
+plural={POJO\acrpluralsuffix },%
+description={Plain Old Java Object},%
+descriptionplural={Plain Old Java Object\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Plain Old Java Object},%
+longplural={Plain Old Java Objects},%
+short={POJO},%
+shortplural={POJOs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
